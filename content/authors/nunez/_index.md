@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=5WvjAhMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Nunez-Computational-Psychiatry-Lab
+  link: https://github.com/nunez-comp-mental-health-cancer-care
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 
-Dr. John-Jose Nunez is an Assistant Professor in the Department of Psychiatry at the University of British Columbia and the Associate Medical Director for Supportive Care at BC Cancer. He is dual trained as a subspecialist psychiatrist in cancer psychiatry and treatment-resistant mood disorders, and as a computational scientist, having completed an MSc in Computer Science. His work focuses on applying artificial intelligence to improve mental health and cancer care, with an emphasis on clinically grounded, patient-centered methods.
+Dr. John-Jose Nunez is an Assistant Professor in the Department of Psychiatry at the University of British Columbia and the Associate Medical Director for Supportive Care at BC Cancer. He is dual trained as a subspecialist psychiatrist in cancer psychiatry and treatment-resistant mood disorders, and as a computational scientist, having completed an MSc in Computer Science. His work focuses on applying artificial intelligence, big data analysis and other computational methods to improve mental health and cancer care, with an emphasis on clinically grounded, patient-centered methods.
 
 Dr. Nunez’s lab develops and evaluates AI approaches including structured machine learning and natural language processing, with a particular focus on real-world clinical data. This includes clinical documents, patient-generated text, and symptom and quality-of-life scales. The lab conducts both predictive modeling (e.g., risk stratification, outcome prediction) and generative work (e.g., patient-facing decision support and navigation tools)—and has been doing so well before large language models became a household term.
 

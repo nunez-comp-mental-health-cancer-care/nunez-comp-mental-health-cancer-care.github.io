@@ -44,7 +44,7 @@ social:
   link: https://scholar.google.com/citations?user=5WvjAhMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Nunez-Computational-Psychiatry-Lab
+  link: https://github.com/nunez-comp-mental-health-cancer-care
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
