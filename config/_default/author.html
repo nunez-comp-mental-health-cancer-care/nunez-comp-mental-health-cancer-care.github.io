@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<h1>Authors</h1>
+{{ range .Data.Pages }}
+	<h2>{{ .Params.name }}</h2>
+	<p>{{ .Params.bio }}</p>
+{{end}}
+
+<h1>{{ .name }}</h1>
+<p>{{ .bio }}</p>
+
+<h2>Articles by {{ . name }}</h2>
+
+{{ range .Pages }}
+	{{ .Render "li" }}
+{{ end }}
