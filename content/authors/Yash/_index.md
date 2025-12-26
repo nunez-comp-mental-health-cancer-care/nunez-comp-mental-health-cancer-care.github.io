@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -38,10 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ymali@mail.ubc.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/yashm8
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yash-mali-ubc/
+- icon: globe
+  icon_pack: fas
+  link: https://yashm8.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
