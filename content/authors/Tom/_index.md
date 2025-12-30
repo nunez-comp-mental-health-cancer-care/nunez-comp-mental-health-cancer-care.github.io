@@ -14,7 +14,7 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: MSc in Computer Science
+- name: BSc in Computer Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

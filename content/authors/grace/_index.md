@@ -1,20 +1,19 @@
 ---
 # Display name
-title: "Shaocheng Wu"
+title: "Grace Zhang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "shaocheng"
-
+- "grace"
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations: 
-- name: PhD in Bioinformatics
+- name: Graduate Student
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Bioinformatics
+  - course: 
     institution: University of British Columbia
-    year: 2019.9 - 2025.8
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,7 +40,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://markutz556.github.io
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +60,4 @@ user_groups:
 ---
 
 <br><br><br>
-My research interest is to apply computational methods and develop machine learning models to understand complex disease mechanisms and to design efficient analysis algorithms.
+My research interest:.
