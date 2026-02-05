@@ -18,12 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Psychiatry
-- Psychology
+- Health Psychology
+- AI in clinical care
+- Patient-centred work
+- Multicultural counseling
+- Psychodynamic theory
+- Mindfulness
 
 education:
   courses:
@@ -56,3 +60,5 @@ user_groups:
 - Team members
 
 ---
+
+Olivia Cook is a recent graduate of the University of Pennsylvania, where she earned her B.A. in Psychology with a minor in French & Francophone Studies. During her time at Penn, she was an undergraduate TA for the Positive Psychology course, a social-emotional learning associate for the Netter Center for Community Partnerships, and a member of the Psi Chi International Honor Society in Psychology. With the Nunez Lab, she is currently working as Research Coordinator and Patient Partner Engagement Lead. In her spare time, she volunteers at a crisis helpline and skis up in Whistler.
