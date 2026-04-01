@@ -17,7 +17,8 @@ content:
     - Grad Students
     - Research Software Developer
     - Visitors
-    - Team members
+    - Team members(Medical)
+    - Team members(Technical)
     - Alumni
 design:
   # Show user's social networking links? (true/false)
