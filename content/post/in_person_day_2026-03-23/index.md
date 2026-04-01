@@ -35,6 +35,5 @@ tags:
 
 # Lab day at office 
 
-{{< figure src="featured.png" caption="Lab day at office" >}}
 
 {{< figure src="featured2.png" caption="Lab day at office (2)" >}}
