@@ -1,0 +1,22 @@
+/* Hide project thumbnails on the home Projects section (only). */
+#projects .projects-container .stream-item > .ml-3 {
+  display: none !important;
+}
+
+/* Remove Twitter/Facebook/LinkedIn share buttons only on Project + Publication pages. */
+.article-project .share-btn-twitter,
+.article-project .share-btn-facebook,
+.article-project .share-btn-linkedin,
+.article-project .share-btn-email,
+.article-project .share-btn-whatsapp,
+.article-project .share-btn-weibo,
+.pub .share-btn-twitter,
+.pub .share-btn-facebook,
+.pub .share-btn-linkedin,
+.pub .share-btn-email,
+.pub .share-btn-whatsapp,
+.pub .share-btn-weibo,
+{
+  display: none !important;
+}
+

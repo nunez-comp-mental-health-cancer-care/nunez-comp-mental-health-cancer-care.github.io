@@ -1,11 +1,13 @@
 ---
 title: Bipolar Guideline chatbot
 summary: Bipolar Guideline Chatbot
+date: 2025-10-01
 tags:
 - Retrieval-Augmented Generation
+- Mood Disorders
+- Clinical Decision Support
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://canmatbipolarassistant.com/"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash

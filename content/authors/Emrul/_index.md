@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Leadership
 ---
 
 I have a PhD in Computer Science, specializing in Recommendation Systems, NLP, and Responsible AI. My research focuses on aspect-aware, multi-criteria recommendation systems, where I leverage NLP and deep learning techniques to improve both performance and explainability. I have published several papers in top-tier, peer-reviewed conferences and journals, including ACM Computing Surveys (ranked #1 out of 143 CS journals, with an impact factor of 23.8).

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Psychiatry | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/psychiatry/</link><atom:link href="https://example.com/tag/psychiatry/index.xml" rel="self" type="application/rss+xml"/><description>Psychiatry</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Psychiatry</title><link>https://example.com/tag/psychiatry/</link></image><item><title>Long-term tolerance to ADHD stimulants in youth</title><link>https://example.com/project/adhd_stimulant_tolerance_youth/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/project/adhd_stimulant_tolerance_youth/</guid><description>&lt;p>&lt;strong>Cooperating Researcher:&lt;/strong> John Ferreira&lt;/p>
+&lt;p>&lt;strong>Credentials:&lt;/strong> MSc in Applied Neuroscience (student - co-supervised)&lt;/p>
+&lt;p>&lt;strong>Interests:&lt;/strong> ADHD, Pharmacology&lt;/p>
+&lt;p>&lt;strong>Education:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>University of Western Ontario,&lt;/li>
+&lt;li>University of Oxford
+-King’s College London&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>This project uses British Columbia’s province-wide PharmaNet prescription database (2005 to present) to study stimulant treatment for ADHD in children and adolescents. We retrospectively analyze three-year periods of continuous stimulant prescribing within each individual, looking for dosing patterns that may be consistent with pharmacological tolerance and how these patterns relate to age, sex, stimulant type, and cumulative exposure. Findings could inform safer, more effective long-term prescribing strategies for ADHD in young people.&lt;/p></description></item><item><title>Navigating Supportive Cancer Care: A Network-Based Analysis of Tumour Site Specific Pathways</title><link>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</guid><description>&lt;p>&lt;strong>Cooperating researcher:&lt;/strong> Dr. Robert Grmek, MD (Resident Research Associate)&lt;/p>
+&lt;p>Dr. Robert Grmek, MD is currently a senior psychiatry resident at the University of British Columbia. His work focuses on the intersection of health care, technology, and health systems innovation. With a unique background in software development and medicine, he has developed clinical tools, including a psychiatric drug formulary app, and he has recently been focusing on using computational tools to better understand and optimize care systems as well as service delivery.&lt;/p>
+&lt;p>&lt;strong>Interests:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Artificial intelligence&lt;/li>
+&lt;li>Digital innovation in healthcare delivery&lt;/li>
+&lt;li>Psychiatry&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Education:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bachelor in Computer Information Sciences, University of British Columbia Okanagan&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Developing network-based models to map how cancer patients access supportive care services across a complex healthcare system. Built dynamic visualization tools in Python to represent referral pathways and quantify transitions between providers. The project aims to uncover hidden patterns in care navigation, for example missed referral opportunities and delays in accessing mental health services, with the goal of informing system-level improvements in supportive care delivery.&lt;/p></description></item></channel></rss>

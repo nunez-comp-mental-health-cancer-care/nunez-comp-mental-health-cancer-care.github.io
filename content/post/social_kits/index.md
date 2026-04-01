@@ -1,5 +1,6 @@
 ---
 title: Lab dinner at Xiang Chuan Mansion restaurant
+date: 2025-12-19
 subtitle: 👋 
 
 # Summary for listings and search engines

@@ -1,12 +1,13 @@
 ---
 title: Depression Guideline chatbot
-summary: Depression Guideline Chatbot
+date: 2025-10-01
 tags:
 - Retrieval-Augmented Generation
 - Agentic Workflow
+- Mood Disorders
+- Clinical Decision Support
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://zzejiao-depression-chatbot.hf.space"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash

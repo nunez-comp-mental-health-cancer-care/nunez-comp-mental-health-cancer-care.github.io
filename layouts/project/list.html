@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+
+<div class="universal-wrapper">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="media stream-item">
+    <div class="media-body">
+      <div class="section-subheading article-title mb-0 mt-0">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+      <a href="{{ .RelPermalink }}" class="summary-link">
+        <div class="article-style">
+          {{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
+        </div>
+      </a>
+      <div class="stream-meta article-metadata"></div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+
