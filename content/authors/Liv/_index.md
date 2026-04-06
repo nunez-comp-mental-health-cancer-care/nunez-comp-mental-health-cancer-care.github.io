@@ -14,7 +14,7 @@ role: Research Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: B.A. in Psychology
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Leadership
+- Lab Leadership
 
 ---
 

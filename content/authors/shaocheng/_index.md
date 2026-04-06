@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations
 organizations: 
-- name: PhD in Bioinformatics
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

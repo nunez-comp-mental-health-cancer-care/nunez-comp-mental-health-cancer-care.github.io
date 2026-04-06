@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 3
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Software Engineer
+role: Full-stack Developer
 
 # Organizations/Affiliations
 organizations:
-- name: BSc in Computer Science
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team members(Technical)
+- Team Members (Technical)
 
 ---

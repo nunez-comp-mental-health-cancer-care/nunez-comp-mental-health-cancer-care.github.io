@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 14
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Medical Student (FLEX Project)
 
 # Organizations/Affiliations
 organizations:
-- name: Medical Student
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +47,7 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team members(Medical)
+- Team Members (Medical)
 ---
 
 Ralph is a medical student in the Vancouver Fraser Medical Program at the University of British Columbia. He graduated with a Bachelor of Science in Integrated Sciences with a focus on Immunology and Physiology. During his undergraduate studies he worked on research projects in transfusion medicine which sparked his interest in clinical research. Since then, he has become involved in a wider range of projects across different clinical fields. Outside of school, Ralph enjoys powerlifting, playing badminton, and trying new restaurants around Vancouver.

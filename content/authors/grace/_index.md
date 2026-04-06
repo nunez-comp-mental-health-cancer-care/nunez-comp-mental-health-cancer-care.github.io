@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: BSc Student (NLP Research Assistant)
 
 # Organizations/Affiliations
 organizations: 
-- name: Graduate Student
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

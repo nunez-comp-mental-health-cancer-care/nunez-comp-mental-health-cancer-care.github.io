@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 15
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Medical Student (FLEX Project)
 
 # Organizations/Affiliations
 organizations:
-- name: Medical Student
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team members(Medical)
+- Team Members (Medical)
 ---
 
 Matt Sha is a medical student in the Vancouver Fraser Medical Program at the University of British Columbia. He completed a Bachelor of Science in Integrated Sciences (Human Diseases & Data Analysis) at the University of British Columbia, where he was involved in research projects studying men’s health and mental health. Matt is also a patient partner at BC Cancer and a patient advocate for sarcoma and adolescent and young adult cancer. He enjoys playing basketball, going to the gym, reading, journaling, spending time in nature, and enjoying music.

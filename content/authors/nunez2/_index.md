@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 1
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Professor
+role: Principal Investigator (Assistant Professor)
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,5 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Lab Leadership
 ---

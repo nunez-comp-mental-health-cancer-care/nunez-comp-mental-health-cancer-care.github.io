@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 4
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Researcher
+role: BSc Student (NLP Research Assistant)
 
 # Organizations/Affiliations
 organizations:
-- name: CS Undergraduate
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,6 +67,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team members(Technical)
+- Team Members (Technical)
 
 ---

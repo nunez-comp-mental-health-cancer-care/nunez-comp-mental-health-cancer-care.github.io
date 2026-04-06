@@ -8,13 +8,14 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 12
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Medical Student (FLEX Project)
 
 # Organizations/Affiliations
 organizations:
-- name: Medical Student
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +46,7 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team members(Medical)
+- Team Members (Medical)
 ---
 
 Myles Chan is a medical student in the Vancouver Fraser Medical Program at the University of British Columbia. He holds a Bachelor of Science from the University of Toronto, specializing in Health and Disease with a minor in Immunology. Prior to medical school, he contributed to clinical research at the Centre for Addiction and Mental Health (CAMH), focusing on diverse projects within the scope of substance use disorders. As a dedicated advocate for oncology patients, his two years of volunteer experience at Princess Margaret Hospital informed his current research interests in patient resource navigation. Outside of medicine, Myles is an avid runner and basketball player who also enjoys weightlifting and cooking.
