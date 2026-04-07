@@ -22,9 +22,9 @@ url_video: ""
 **Interests:** ADHD, Pharmacology
 
 **Education:** 
-- University of Western Ontario, 
+- University of Western Ontario
 - University of Oxford
--King’s College London
+- King’s College London
 
 
 ---

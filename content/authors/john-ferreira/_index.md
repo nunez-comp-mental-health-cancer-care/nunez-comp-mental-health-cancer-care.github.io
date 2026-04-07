@@ -1,7 +1,7 @@
 ---
-title: "John Ferriera"
+title: "John Ferreira"
 authors:
-- "john-ferriera"
+- "john-ferreira"
 superuser: false
 weight: 6
 role: MSc Student (co-supervised, Asherson Lab, KCL Psychology)
@@ -9,12 +9,14 @@ organizations:
 - name: ""
   url: ""
 bio: 
-interests:
+interests: 
+- ADHD
+- Pharmacology
 education:
   courses:
-  - course: 
-    institution: 
-    year:
+  - course: University of Western Ontario
+  - course: University of Oxford
+  - course: King’s College London
 social:
 - icon: envelope
   icon_pack: fas
