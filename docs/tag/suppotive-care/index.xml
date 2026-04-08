@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Suppotive care | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/suppotive-care/</link><atom:link href="https://example.com/tag/suppotive-care/index.xml" rel="self" type="application/rss+xml"/><description>Suppotive care</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Suppotive care</title><link>https://example.com/tag/suppotive-care/</link></image><item><title>Cancer Navigation Chatbot</title><link>https://example.com/project/cancer_navigator/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://example.com/project/cancer_navigator/</guid><description>&lt;p>Cancer patients in British Columbia face significant challenges in navigating care resources scattered across multiple providers and locations. Delays in accessing these resources can impact not only quality of life but even survival—for example, when a patient cannot reach their cancer centre for chemotherapy or is unaware of a transportation assistance program.
-To address this gap, we have developed an AI-powered chatbot utilizing RAG technology, which generates reliable answers by drawing from a curated database of verified cancer care resources.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suppotive care | Nunez Lab for Computational Mental Health &amp; Cancer Care</title>
+    <link>https://example.com/tag/suppotive-care/</link>
+      <atom:link href="https://example.com/tag/suppotive-care/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suppotive care</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Suppotive care</title>
+      <link>https://example.com/tag/suppotive-care/</link>
+    </image>
+    
+    <item>
+      <title>Cancer Navigation Chatbot</title>
+      <link>https://example.com/project/cancer_navigator/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cancer_navigator/</guid>
+      <description>&lt;p&gt;Cancer patients in British Columbia face significant challenges in navigating care resources scattered across multiple providers and locations. Delays in accessing these resources can impact not only quality of life but even survival—for example, when a patient cannot reach their cancer centre for chemotherapy or is unaware of a transportation assistance program.
+To address this gap, we have developed an AI-powered chatbot utilizing RAG technology, which generates reliable answers by drawing from a curated database of verified cancer care resources.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

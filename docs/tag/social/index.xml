@@ -1,14 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Social | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/social/</link><atom:link href="https://example.com/tag/social/index.xml" rel="self" type="application/rss+xml"/><description>Social</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Social</title><link>https://example.com/tag/social/</link></image><item><title>Lab day at office</title><link>https://example.com/post/in_person_day_2026-03-23/</link><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/post/in_person_day_2026-03-23/</guid><description>&lt;h1 id="lab-day-at-office">Lab day at office&lt;/h1>
-&lt;figure id="figure-lab-day-at-office-2">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Lab day at office (2)" srcset="
-/post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_41a06e59343781a7e230f80fee61cb22.png 400w,
-/post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_0993eb8c89c780732b846f7e367dea4d.png 760w,
-/post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_1200x1200_fit_lanczos_3.png 1200w"
-src="https://example.com/post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_41a06e59343781a7e230f80fee61cb22.png"
-width="760"
-height="597"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-Lab day at office (2)
-&lt;/figcaption>&lt;/figure></description></item><item><title>Lab dinner at Xiang Chuan Mansion restaurant</title><link>https://example.com/post/social_kits/</link><pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/post/social_kits/</guid><description>&lt;h1 id="lab-dinner-at-xiang-chuan-restaurant-">Lab dinner at Xiang Chuan restaurant 👋👋👋👋👋👋&lt;/h1></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social | Nunez Lab for Computational Mental Health &amp; Cancer Care</title>
+    <link>https://example.com/tag/social/</link>
+      <atom:link href="https://example.com/tag/social/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Social</title>
+      <link>https://example.com/tag/social/</link>
+    </image>
+    
+    <item>
+      <title>Lab day at office</title>
+      <link>https://example.com/post/in_person_day_2026-03-23/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/in_person_day_2026-03-23/</guid>
+      <description>&lt;h1 id=&#34;lab-day-at-office&#34;&gt;Lab day at office&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-lab-day-at-office-2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Lab day at office (2)&#34; srcset=&#34;
+               /post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_41a06e59343781a7e230f80fee61cb22.png 400w,
+               /post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_0993eb8c89c780732b846f7e367dea4d.png 760w,
+               /post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://example.com/post/in_person_day_2026-03-23/featured2_hu33b14d4777bc1d2252fd0d2b36a19739_2555287_41a06e59343781a7e230f80fee61cb22.png&#34;
+               width=&#34;760&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Lab day at office (2)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab dinner at Xiang Chuan Mansion restaurant</title>
+      <link>https://example.com/post/social_kits/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/social_kits/</guid>
+      <description>&lt;h1 id=&#34;lab-dinner-at-xiang-chuan-restaurant-&#34;&gt;Lab dinner at Xiang Chuan restaurant 👋👋👋👋👋👋&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
