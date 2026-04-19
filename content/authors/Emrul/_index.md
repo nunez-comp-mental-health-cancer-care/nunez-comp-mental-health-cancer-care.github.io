@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:mhemrul.hasan@ubc.ca'
 - icon: github
   icon_pack: fab
   link:

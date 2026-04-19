@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Jiao Zeng"
+title: "Jiao (Zejiao) Zeng"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:"
+  link: 'mailto:zejiao.zeng@ubc.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/

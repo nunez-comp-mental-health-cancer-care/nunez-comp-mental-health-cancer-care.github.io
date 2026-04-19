@@ -3,7 +3,7 @@ title: "Kayoung Lee"
 authors:
 - "kayoung-lee"
 superuser: false
-weight: 5
+weight: 4
 role: PhD Student (co-supervised, Haase Lab, UBC Nursing)
 organizations:
 - name: ""
@@ -16,9 +16,6 @@ education:
     institution: 
     year:
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: github
   icon_pack: fab
   link:

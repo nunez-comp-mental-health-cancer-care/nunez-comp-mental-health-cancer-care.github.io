@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pharmacology | Nunez Lab for Computational Mental Health &amp; Cancer Care</title>
-    <link>https://example.com/tag/pharmacology/</link>
-      <atom:link href="https://example.com/tag/pharmacology/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pharmacology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Pharmacology</title>
-      <link>https://example.com/tag/pharmacology/</link>
-    </image>
-    
-    <item>
-      <title>Long-term tolerance to ADHD stimulants in youth</title>
-      <link>https://example.com/project/adhd_stimulant_tolerance_youth/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/adhd_stimulant_tolerance_youth/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Cooperating Researcher:&lt;/strong&gt; John Ferreira&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Credentials:&lt;/strong&gt; MSc in Applied Neuroscience (student - co-supervised)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interests:&lt;/strong&gt; ADHD, Pharmacology&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;University of Western Ontario&lt;/li&gt;
-&lt;li&gt;University of Oxford&lt;/li&gt;
-&lt;li&gt;King’s College London&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;This project uses British Columbia’s province-wide PharmaNet prescription database (2005 to present) to study stimulant treatment for ADHD in children and adolescents. We retrospectively analyze three-year periods of continuous stimulant prescribing within each individual, looking for dosing patterns that may be consistent with pharmacological tolerance and how these patterns relate to age, sex, stimulant type, and cumulative exposure. Findings could inform safer, more effective long-term prescribing strategies for ADHD in young people.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pharmacology | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/pharmacology/</link><atom:link href="https://example.com/tag/pharmacology/index.xml" rel="self" type="application/rss+xml"/><description>Pharmacology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Pharmacology</title><link>https://example.com/tag/pharmacology/</link></image><item><title>Long-term tolerance to ADHD stimulants in youth</title><link>https://example.com/project/adhd_stimulant_tolerance_youth/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/project/adhd_stimulant_tolerance_youth/</guid><description>&lt;p>&lt;strong>Cooperating Researcher:&lt;/strong> John Ferreira&lt;/p>
+&lt;p>&lt;strong>Credentials:&lt;/strong> MSc in Applied Neuroscience (student - co-supervised)&lt;/p>
+&lt;p>&lt;strong>Interests:&lt;/strong> ADHD, Pharmacology&lt;/p>
+&lt;p>&lt;strong>Education:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>University of Western Ontario&lt;/li>
+&lt;li>University of Oxford&lt;/li>
+&lt;li>King’s College London&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>This project uses British Columbia’s province-wide PharmaNet prescription database (2005 to present) to study stimulant treatment for ADHD in children and adolescents. We retrospectively analyze three-year periods of continuous stimulant prescribing within each individual, looking for dosing patterns that may be consistent with pharmacological tolerance and how these patterns relate to age, sex, stimulant type, and cumulative exposure. Findings could inform safer, more effective long-term prescribing strategies for ADHD in young people.&lt;/p></description></item></channel></rss>

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Jincheng(Tom) Chen"
+title: "Tom (Jincheng) Chen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jincheng.chen@ubc.ca'
 - icon: github
   icon_pack: fab
   link: 

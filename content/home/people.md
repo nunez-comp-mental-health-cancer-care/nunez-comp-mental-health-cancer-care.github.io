@@ -19,6 +19,7 @@ content:
     - Visitors
     - Team Members (Technical)
     - Team Members (Medical)
+    - Patient Partners
     - Alumni
 design:
   # Show user's social networking links? (true/false)

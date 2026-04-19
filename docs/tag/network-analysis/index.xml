@@ -1,66 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Network analysis | Nunez Lab for Computational Mental Health &amp; Cancer Care</title>
-    <link>https://example.com/tag/network-analysis/</link>
-      <atom:link href="https://example.com/tag/network-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Network analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Network analysis</title>
-      <link>https://example.com/tag/network-analysis/</link>
-    </image>
-    
-    <item>
-      <title>Navigating Supportive Cancer Care: A Network-Based Analysis of Tumour Site Specific Pathways</title>
-      <link>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</guid>
-      <description>&lt;p&gt;Developing network-based models to map how cancer patients access supportive care services across a complex healthcare system. Built dynamic visualization tools in Python to represent referral pathways and quantify transitions between providers. The project aims to uncover hidden patterns in care navigation, for example missed referral opportunities and delays in accessing mental health services, with the goal of informing system-level improvements in supportive care delivery.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;cooperating-researcher&#34;&gt;Cooperating researcher:&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Dr. Robert Grmek, MD (Resident Research Associate)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dr. Robert Grmek, MD is currently a senior psychiatry resident at the University of British Columbia. His work focuses on the intersection of health care, technology, and health systems innovation. With a unique background in software development and medicine, he has developed clinical tools, including a psychiatric drug formulary app, and he has recently been focusing on using computational tools to better understand and optimize care systems as well as service delivery.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interests:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Artificial intelligence&lt;/li&gt;
-&lt;li&gt;Digital innovation in healthcare delivery&lt;/li&gt;
-&lt;li&gt;Psychiatry&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bachelor in Computer Information Sciences, University of British Columbia Okanagan&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-dr-robert-grmek-md&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Robert Grmek, MD&#34; srcset=&#34;
-               /project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_f4629fbcc9321a995fc6b6fa024c9069.png 400w,
-               /project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_4a816d511b67fa64e663f2eb57930d36.png 760w,
-               /project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://example.com/project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_f4629fbcc9321a995fc6b6fa024c9069.png&#34;
-               width=&#34;507&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Dr. Robert Grmek, MD
-    &lt;/figcaption&gt;&lt;/figure&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Network analysis | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/network-analysis/</link><atom:link href="https://example.com/tag/network-analysis/index.xml" rel="self" type="application/rss+xml"/><description>Network analysis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Network analysis</title><link>https://example.com/tag/network-analysis/</link></image><item><title>Navigating Supportive Cancer Care: A Network-Based Analysis of Tumour Site Specific Pathways</title><link>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/project/navigating_supportive_cancer_care_network_pathways/</guid><description>&lt;p>Developing network-based models to map how cancer patients access supportive care services across a complex healthcare system. Built dynamic visualization tools in Python to represent referral pathways and quantify transitions between providers. The project aims to uncover hidden patterns in care navigation, for example missed referral opportunities and delays in accessing mental health services, with the goal of informing system-level improvements in supportive care delivery.&lt;/p>
+&lt;hr>
+&lt;h3 id="cooperating-researcher">Cooperating researcher:&lt;/h3>
+&lt;p>&lt;strong>Dr. Robert Grmek, MD (Resident Research Associate)&lt;/strong>&lt;/p>
+&lt;p>Dr. Robert Grmek, MD is currently a senior psychiatry resident at the University of British Columbia. His work focuses on the intersection of health care, technology, and health systems innovation. With a unique background in software development and medicine, he has developed clinical tools, including a psychiatric drug formulary app, and he has recently been focusing on using computational tools to better understand and optimize care systems as well as service delivery.&lt;/p>
+&lt;p>&lt;strong>Interests:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Artificial intelligence&lt;/li>
+&lt;li>Digital innovation in healthcare delivery&lt;/li>
+&lt;li>Psychiatry&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Education:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bachelor in Computer Information Sciences, University of British Columbia Okanagan&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-dr-robert-grmek-md">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Dr. Robert Grmek, MD" srcset="
+/project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_f4629fbcc9321a995fc6b6fa024c9069.png 400w,
+/project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_4a816d511b67fa64e663f2eb57930d36.png 760w,
+/project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_1200x1200_fit_lanczos_3.png 1200w"
+src="https://example.com/project/navigating_supportive_cancer_care_network_pathways/image1_huebe76e9039e43061ba3279110624346a_2222265_f4629fbcc9321a995fc6b6fa024c9069.png"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Dr. Robert Grmek, MD
+&lt;/figcaption>&lt;/figure></description></item></channel></rss>

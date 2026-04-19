@@ -32,9 +32,6 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: github
   icon_pack: fab
   link:

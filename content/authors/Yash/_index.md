@@ -8,7 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
-weight: 4
+weight: 6
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: BSc Student (NLP Research Assistant)
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ymali@mail.ubc.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ymali@mail.ubc.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/yashm8

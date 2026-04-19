@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI-in-health | Nunez Lab for Computational Mental Health &amp; Cancer Care</title>
-    <link>https://example.com/tag/ai-in-health/</link>
-      <atom:link href="https://example.com/tag/ai-in-health/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI-in-health</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>AI-in-health</title>
-      <link>https://example.com/tag/ai-in-health/</link>
-    </image>
-    
-    <item>
-      <title>AI-Supported Physical Activity Behaviour Change for People with Colon Cancer</title>
-      <link>https://example.com/project/ai_supported_physical_activity_colon_cancer/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ai_supported_physical_activity_colon_cancer/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Cooperating Researchers:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dr. Kelcey Bland&lt;/li&gt;
-&lt;li&gt;Dr. Lauren Capozzi&lt;/li&gt;
-&lt;li&gt;Dr. Kristin Campbell&lt;/li&gt;
-&lt;li&gt;Kaela Cranston&lt;/li&gt;
-&lt;li&gt;Myles Chan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;This project explores how an AI-powered chatbot can support people with colon cancer to become more physically active, building on the CHALLENGE trial (June 2025), which showed that structured exercise can improve survival. Because delivering individualized exercise counselling is resource-intensive, we are adapting an existing BC Cancer large language model chatbot to support exercise professionals to provide personalized, evidence-based behaviour change support.&lt;/p&gt;
-&lt;p&gt;Through co-design workshops with patients, clinicians, and exercise professionals, we will identify the features, safety needs, and delivery approaches required for a trustworthy and useful tool. A small pilot study will then assess the chatbot’s feasibility, usability, and acceptability. Findings will guide refinement and help determine whether the chatbot is ready for larger-scale evaluation.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI-in-health | Nunez Lab for Computational Mental Health &amp; Cancer Care</title><link>https://example.com/tag/ai-in-health/</link><atom:link href="https://example.com/tag/ai-in-health/index.xml" rel="self" type="application/rss+xml"/><description>AI-in-health</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>AI-in-health</title><link>https://example.com/tag/ai-in-health/</link></image><item><title>AI-Supported Physical Activity Behaviour Change for People with Colon Cancer</title><link>https://example.com/project/ai_supported_physical_activity_colon_cancer/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/project/ai_supported_physical_activity_colon_cancer/</guid><description>&lt;p>&lt;strong>Cooperating Researchers:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Dr. Kelcey Bland&lt;/li>
+&lt;li>Dr. Lauren Capozzi&lt;/li>
+&lt;li>Dr. Kristin Campbell&lt;/li>
+&lt;li>Kaela Cranston&lt;/li>
+&lt;li>Myles Chan&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>This project explores how an AI-powered chatbot can support people with colon cancer to become more physically active, building on the CHALLENGE trial (June 2025), which showed that structured exercise can improve survival. Because delivering individualized exercise counselling is resource-intensive, we are adapting an existing BC Cancer large language model chatbot to support exercise professionals to provide personalized, evidence-based behaviour change support.&lt;/p>
+&lt;p>Through co-design workshops with patients, clinicians, and exercise professionals, we will identify the features, safety needs, and delivery approaches required for a trustworthy and useful tool. A small pilot study will then assess the chatbot’s feasibility, usability, and acceptability. Findings will guide refinement and help determine whether the chatbot is ready for larger-scale evaluation.&lt;/p></description></item></channel></rss>

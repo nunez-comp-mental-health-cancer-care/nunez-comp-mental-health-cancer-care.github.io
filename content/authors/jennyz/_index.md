@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Jenny Zhang"
+title: "Jenny (Yuci) Zhang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:"
+  link: 'mailto:yuci.zhang@ubc.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/
