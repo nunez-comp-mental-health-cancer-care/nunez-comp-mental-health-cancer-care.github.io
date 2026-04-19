@@ -28,7 +28,7 @@ publication_short: "Psychiatry Res"
 
 abstract: "Depression is heterogeneous with variable response to treatment. This study used unsupervised machine learning to cluster patients receiving escitalopram therapy into distinct response trajectory groups. Using data from the CAN-BIND-1 trial, the algorithm identified three clusters representing non-responders, responders, and remitters. Subjective mood state and anhedonia emerged as core features of response with escitalopram."
 
-featured: true
+featured: false
 
 tags:
   - Machine Learning

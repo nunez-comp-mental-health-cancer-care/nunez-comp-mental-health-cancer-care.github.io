@@ -16,7 +16,7 @@ publication_short: "PhD Thesis"
 
 abstract: "Cancer is associated not only with mortality, but also with impacts on physical, mental, and social health. When unmet, psychosocial needs are associated with worsened quality-of-life and survival. This dissertation investigates the use of neural language models to predict psychosocial needs of cancer patients from clinical documents."
 
-featured: true
+featured: false
 
 tags:
   - Neural Language Models

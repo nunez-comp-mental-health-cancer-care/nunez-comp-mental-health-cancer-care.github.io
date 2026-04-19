@@ -1,11 +1,10 @@
 ---
-title: Bipolar Guideline chatbot
-summary: Bipolar Guideline Chatbot
+title: Bipolar Disorder Treatment Guideline Chatbot
+summary: An AI assistant that helps clinicians and patients navigate evidence-based treatment guidelines for bipolar disorder, making complex recommendations more accessible.
 date: 2025-10-01
 tags:
-- Retrieval-Augmented Generation
+- Featured
 - Mood Disorders
-- Clinical Decision Support
 
 # Optional external URL for project (replaces project detail page).
 

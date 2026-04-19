@@ -29,7 +29,7 @@ publication_short: "PLOS ONE"
 
 abstract: "Antidepressants are first-line treatments for major depressive disorder, but 40-60% of patients will not respond to treatment. This study independently replicates machine learning methodology predicting antidepressant outcomes using the STAR*D dataset and then externally validates these methods using the CAN-BIND-1 dataset, finding successful replication with similar prediction performance across databases."
 
-featured: true
+featured: false
 
 tags:
   - Machine Learning

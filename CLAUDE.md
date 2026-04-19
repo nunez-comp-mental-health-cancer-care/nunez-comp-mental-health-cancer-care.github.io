@@ -73,7 +73,7 @@ highlight_name: false
 ---
 ```
 
-**Valid `user_groups` values:**
+**Valid `user_groups` values** (must also be listed in `content/home/people.md` to render as a section):
 - `Lab Leadership`
 - `Researchers`
 - `Grad Students`
@@ -81,6 +81,7 @@ highlight_name: false
 - `Research Software Developer`
 - `Team Members (Technical)`
 - `Team Members (Medical)`
+- `Patient Partners`
 - `Visitors`
 - `Alumni`
 
@@ -184,9 +185,31 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 **Reordering homepage sections:** Adjust `weight:` in `content/home/*.md` files.
 
+## Conventions
+
+**PI dual-profile (`nunez/` + `nunez2/`)** — This is intentional, not a duplicate bug. `nunez/` is the `superuser: true` profile that drives the About widget (has full bio and organizations). `nunez2/` is a lightweight profile with empty organizations that renders cleanly in the Lab Leadership card on the People widget. Keep both in sync when changing headshot/role. If you edit one profile, consider whether the other needs the same change.
+
+**Preferred-name format** — When a member's preferred name differs from their formal/legal name (often the name in their UBC email), display as `Preferred (Formal) LastName`. Examples: `Tom (Jincheng) Chen`, `Jenny (Yuci) Zhang`, `Soghomon (Saughmon) Boujkian`. Helps people connect the display name to the email address.
+
+**Email icon policy** — Only show email social icons for **professional lab members** (Lab Leadership + full-time staff: currently Emrul, Olivia, Jenny, Jiao, Tom Chen, and Dr. Nunez) using their `@ubc.ca` addresses. Remove the envelope social block entirely for students, residents, medical students, alumni, and patient partners.
+
+**Weight ordering within user groups:**
+- `Team Members (Technical)`: professionals → PhD → MSc → BSc
+- `Team Members (Medical)`: residents → medical students
+- `Patient Partners`: alphabetical by last name
+
+## Gotchas
+
+- **Avatar format:** if both `avatar.jpg` and `avatar.png` exist in a profile folder, Hugo uses `.jpg`. Delete the unwanted one rather than just adding the other.
+- **Placeholder avatar:** for new members without a photo yet, copy `_vendor/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/archetypes/authors/avatar.jpg` as `avatar.jpg` into the profile folder.
+- **`pics_to_sort/`** holds raw unsorted photos (often with Windows `:Zone.Identifier` files). Copy into the target profile folder as `avatar.jpg` — don't move or commit the originals.
+
+## External references
+
+- **Lab contacts & groups (source of truth for emails and member groupings):** `C:\Users\jjnun\My Drive (jjnunez11@gmail.com)\Work\Contacts and Groups.md` — WSL path: `/mnt/c/Users/jjnun/My Drive (jjnunez11@gmail.com)/Work/Contacts and Groups.md`. Has a `Patient Partners` group and a `Lab Members` section with roles, preferred names, and UBC emails.
+
 ## Notes
 
 - The `admin` author slug refers to Dr. Nunez (the lab director, `superuser: true`)
 - `docs/` is the publish directory (not the default `public/`) — this is set in `config.yaml` for GitHub Pages
 - Images should be placed in the same folder as the content file, or in `assets/media/`
-- The `pics_to_sort/` folder in the repo root holds unsorted team member photos waiting to be placed

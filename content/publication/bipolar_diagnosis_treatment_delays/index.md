@@ -29,7 +29,7 @@ A conceptual framework based on the Model of Pathways to Treatment by Scott and 
 
 To the best of our knowledge, this is the first systematic scoping review to explore the potential factors that influence delays in the treatment of BD in adolescents and young adults. Findings from this review will inform clinical practice and policy. We also demonstrate the utility of a systematic approach to identifying the components of delay, from symptom recognition through treatment, as a methodology to help identify knowledge gaps to inform future research."
 
-featured: true
+featured: false
 
 tags:
   - Bipolar Disorder

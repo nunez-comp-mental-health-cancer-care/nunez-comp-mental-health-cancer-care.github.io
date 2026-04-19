@@ -4,11 +4,7 @@ summary: "Developing network-based models and Python visualization tools to map 
 date: 2026-03-01
 lastmod:
 tags:
-- Psychiatry
-- Digital health
-- Oncology
-- Health systems
-- Network analysis
+- Supportive Cancer Care
 
 url_code: ""
 url_pdf: ""

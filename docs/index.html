@@ -30,6 +30,8 @@
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
 <meta property="og:updated_time" content="2030-06-01T13:00:00+00:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","potentialAction":{"@type":"SearchAction","target":"https://example.com/?q={search_term_string}","query-input":"required name=search_term_string"},"url":"https://example.com/"}</script>
+<script>localStorage.getItem('wcTheme')===null&&localStorage.setItem('wcTheme','1')</script>
+<style>.navbar-nav .nav-link{padding-left:.3rem!important;padding-right:.3rem!important;font-size:.875rem!important}#navbar-main .navbar-brand{font-size:.9rem!important}</style>
 <title>Nunez Lab for Computational Mental Health & Cancer Care</title>
 </head>
 <body id=top data-spy=scroll data-offset=70 data-target=#navbar-main class=page-wrapper>
@@ -73,22 +75,25 @@
 <a class=nav-link href=/#about data-target=#about><span>Home</span></a>
 </li>
 <li class=nav-item>
-<a class=nav-link href=/#posts data-target=#posts><span>Posts</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#blogs data-target=#blogs><span>Blogs</span></a>
-</li>
-<li class=nav-item>
 <a class=nav-link href=/#projects data-target=#projects><span>Projects</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#featured data-target=#featured><span>Publications</span></a>
 </li>
 <li class=nav-item>
 <a class=nav-link href=/#people data-target=#people><span>People</span></a>
 </li>
 <li class=nav-item>
+<a class=nav-link href=/#featured data-target=#featured><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#posts data-target=#posts><span>News</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#join_us data-target=#join_us><span>Join Us</span></a>
+</li>
+<li class=nav-item>
 <a class=nav-link href=/#contact data-target=#contact><span>Contact</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/#support_us data-target=#support_us><span>Support Us</span></a>
 </li>
 </ul>
 </div>
@@ -163,7 +168,7 @@
 <h1>Biography</h1>
 <div class=article-style>
 <p>Dr. John-Jose Nunez is an Assistant Professor in the Department of Psychiatry at the University of British Columbia and the Associate Medical Director for Supportive Care at BC Cancer. He is dual trained as a subspecialist psychiatrist in cancer psychiatry and treatment-resistant mood disorders, and as a computational scientist, having completed an MSc in Computer Science. His work focuses on applying artificial intelligence, big data analysis and other computational methods to improve mental health and cancer care, with an emphasis on clinically grounded, patient-centered methods.</p>
-<p>Dr. Nunez’s lab develops and evaluates AI approaches including structured machine learning and natural language processing, with a particular focus on real-world clinical data. This includes clinical documents, patient-generated text, and symptom and quality-of-life scales. The lab conducts both predictive modeling (e.g., risk stratification, outcome prediction) and generative work (e.g., patient-facing decision support and navigation tools)—and has been doing so well before large language models became a household term.</p>
+<p>Dr. Nunez’s lab develops and evaluates AI approaches including structured machine learning and natural language processing, with a particular focus on real-world clinical data. This includes clinical documents, patient-generated text, and symptom and quality-of-life scales. The lab conducts both predictive modeling (e.g., risk stratification, outcome prediction) and generative work (e.g., patient-facing decision support and navigation tools). The lab has been doing so well before large language models became a household term.</p>
 <p>A defining feature of the lab’s work is its end-to-end scope, spanning method development, model interpretation, clinical validation, implementation in healthcare settings, and understanding user perspectives through direct engagement with patients, caregivers, and clinicians to ensure AI-enabled tools are safe, transparent, and genuinely useful in care.</p>
 <p>Through close collaboration with BC Cancer, UBC Psychiatry, the Department of Computer Science, and the UBC Data Science Institute, this multidisciplinary lab advances AI that meaningfully supports patients across the mental health and cancer care continuum.</p>
 </div>
@@ -215,20 +220,42 @@
 <h1 class=mb-0>Projects</h1>
 </div>
 <div class="col-12 col-lg-8">
-<span class="d-none default-project-filter">*</span>
+<span class="d-none default-project-filter">.js-id-Featured</span>
 <div class=project-toolbar>
 <div class=project-filters>
 <div class=btn-toolbar>
 <div class="btn-group flex-wrap">
-<a href=# data-filter=* class="btn btn-primary btn-lg active">All</a>
-<a href=# data-filter=.js-id-Natural-language-processing class="btn btn-primary btn-lg">Natural language processing</a>
-<a href=# data-filter=.js-id-Psychiatry class="btn btn-primary btn-lg">Psychiatry</a>
+<a href=# data-filter=.js-id-Featured class="btn btn-primary btn-lg active">Featured</a>
+<a href=# data-filter=.js-id-Supportive-Cancer-Care class="btn btn-primary btn-lg">Supportive Cancer Care</a>
+<a href=# data-filter=.js-id-Mood-Disorders class="btn btn-primary btn-lg">Mood Disorders</a>
+<a href=# data-filter=* class="btn btn-primary btn-lg">All</a>
 </div>
 </div>
 </div>
 </div>
 <div class="isotope projects-container row js-layout-row">
-<div class="col-12 isotope-item js-id-AI-in-health js-id-Digital-health js-id-Oncology js-id-GenerativeAI js-id-BehaviorChange js-id-ImplementationScience">
+<div class="col-12 isotope-item js-id-Featured js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/cancer_navigator/>Navigation Assistant for Patients</a>
+</div>
+<a href=/project/cancer_navigator/ class=summary-link>
+<div class=article-style>
+An AI-powered chatbot to help cancer patients find and access supportive care services such as counselling, social work, and rehabilitation, at the right time in their care journey.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+<a href=/project/cancer_navigator/>
+<img src=/project/cancer_navigator/featured_huc32db03cb98bdedca12c98bb9b25a54d_316206_150x0_resize_lanczos_3.png alt="Navigation Assistant for Patients" loading=lazy>
+</a>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
@@ -246,7 +273,7 @@ Adapting an chatbot to support exercise professionals in providing personalized,
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Psychiatry js-id-ADHD js-id-Pharmacology js-id-Pharmacoepidemiology">
+<div class="col-12 isotope-item js-id-Mood-Disorders">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
@@ -264,7 +291,7 @@ Using British Columbia’s PharmaNet prescription database to examine three-year
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Psychiatry js-id-Digital-health js-id-Oncology js-id-Health-systems js-id-Network-analysis">
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
@@ -282,15 +309,15 @@ Developing network-based models and Python visualization tools to map supportive
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Retrieval-Augmented-Generation js-id-Mood-Disorders js-id-Clinical-Decision-Support">
+<div class="col-12 isotope-item js-id-Featured js-id-Mood-Disorders">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
-<a href=/project/bipolar_guideline_chatbot/>Bipolar Guideline chatbot</a>
+<a href=/project/bipolar_guideline_chatbot/>Bipolar Disorder Treatment Guideline Chatbot</a>
 </div>
 <a href=/project/bipolar_guideline_chatbot/ class=summary-link>
 <div class=article-style>
-Bipolar Guideline Chatbot
+An AI assistant that helps clinicians and patients navigate evidence-based treatment guidelines for bipolar disorder, making complex recommendations more accessible.
 </div>
 </a>
 <div class="stream-meta article-metadata">
@@ -298,57 +325,239 @@ Bipolar Guideline Chatbot
 </div>
 <div class=ml-3>
 <a href=/project/bipolar_guideline_chatbot/>
-<img src=/project/bipolar_guideline_chatbot/featured_hu4846a506eb71f942af92d345c013e2b6_673101_150x0_resize_lanczos_3.png alt="Bipolar Guideline chatbot" loading=lazy>
+<img src=/project/bipolar_guideline_chatbot/featured_hu4846a506eb71f942af92d345c013e2b6_673101_150x0_resize_lanczos_3.png alt="Bipolar Disorder Treatment Guideline Chatbot" loading=lazy>
 </a>
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Natural-language-processing js-id-Suppotive-care js-id-Oncology js-id-Digital-Health">
+<div class="col-12 isotope-item js-id-Mood-Disorders">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
-<a href=/project/cancer_navigator/>Cancer Navigation Chatbot</a>
+<a href=/project/bipolar_disorder_chatbot/>Chatbot for Bipolar Disorder</a>
 </div>
-<a href=/project/cancer_navigator/ class=summary-link>
+<a href=/project/bipolar_disorder_chatbot/ class=summary-link>
 <div class=article-style>
-Cancer patients in British Columbia face significant challenges in navigating care resources scattered across multiple providers and locations. Delays in accessing these resources can impact not only quality of life but even survival—for example, when a patient cannot reach their cancer centre for chemotherapy or is unaware of a transportation assistance program.
+A chatbot integrated into a mental health app, designed to help those living with bipolar disorder.
 </div>
 </a>
 <div class="stream-meta article-metadata">
 </div>
 </div>
 <div class=ml-3>
-<a href=/project/cancer_navigator/>
-<img src=/project/cancer_navigator/featured_huc32db03cb98bdedca12c98bb9b25a54d_316206_150x0_resize_lanczos_3.png alt="Cancer Navigation Chatbot" loading=lazy>
-</a>
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Retrieval-Augmented-Generation js-id-Agentic-Workflow js-id-Mood-Disorders js-id-Clinical-Decision-Support">
+<div class="col-12 isotope-item js-id-Featured js-id-Mood-Disorders">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
-<a href=/project/depression_guideline_chatbot/>Depression Guideline chatbot</a>
+<a href=/project/depression_guideline_chatbot/>Depression Treatment Guideline Chatbot</a>
 </div>
+<a href=/project/depression_guideline_chatbot/ class=summary-link>
+<div class=article-style>
+An AI assistant that helps clinicians and patients navigate evidence-based treatment guidelines for depression, incorporating state-of-the-art AI techniques.
+</div>
+</a>
 <div class="stream-meta article-metadata">
 </div>
 </div>
 <div class=ml-3>
 <a href=/project/depression_guideline_chatbot/>
-<img src=/project/depression_guideline_chatbot/featured_huc3a6020fd9aca54e707448980808bff5_907822_150x0_resize_q75_lanczos.jpg alt="Depression Guideline chatbot" loading=lazy>
+<img src=/project/depression_guideline_chatbot/featured_huc3a6020fd9aca54e707448980808bff5_907822_150x0_resize_q75_lanczos.jpg alt="Depression Treatment Guideline Chatbot" loading=lazy>
 </a>
 </div>
 </div>
 </div>
-<div class="col-12 isotope-item js-id-Artificial-Intelligence js-id-Cancer-Care js-id-Patient-Perspectives js-id-Explainability">
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
 <div class="media stream-item">
 <div class=media-body>
 <div class="section-subheading article-title mb-0 mt-0">
-<a href=/project/understanding-patient-and-clinician-perspectives-on-ai/>Understanding Patient and Clinician Perspectives on AI</a>
+<a href=/project/cancer_precision_medicine_equity/>Equity in Cancer Precision Medicine</a>
+</div>
+<a href=/project/cancer_precision_medicine_equity/ class=summary-link>
+<div class=article-style>
+Using machine learning to explore whether personalized cancer treatment approaches work equally well for all patients, regardless of their background.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/understanding-patient-and-clinician-perspectives-on-ai/>How Patients and Clinicians Want to Use AI in Cancer Care</a>
 </div>
 <a href=/project/understanding-patient-and-clinician-perspectives-on-ai/ class=summary-link>
 <div class=article-style>
-Understanding Patient and Clinician Perspectives on AI
+Examining what is known about how cancer patients and clinicians perceive, want, and respond to artificial intelligence in their care, to ensure the tools we build reflect what people actually need.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Featured js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/nlp_psychiatric_identification/>Identifying Patients Who May Benefit from Psychiatric Support</a>
+</div>
+<a href=/project/nlp_psychiatric_identification/ class=summary-link>
+<div class=article-style>
+Using NLP applied to clinical notes to identify cancer patients who would benefit from psychiatric referral but may not yet have been flagged.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/cancer_navigator_staff/>Navigation Assistant for Clinical Staff</a>
+</div>
+<a href=/project/cancer_navigator_staff/ class=summary-link>
+<div class=article-style>
+An AI tool to help clinical teams assess incoming referrals, identify gaps in information, and route patients to the most appropriate services more efficiently.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/patient_attitudes_ai_cancer_care/>Patient Attitudes Toward AI in Cancer Care</a>
+</div>
+<a href=/project/patient_attitudes_ai_cancer_care/ class=summary-link>
+<div class=article-style>
+Surveying and interviewing patients to understand their comfort with and concerns about artificial intelligence being used in their care.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/patient_perspectives_supportive_care_referral/>Patient Perspectives on Supportive Care Referral</a>
+</div>
+<a href=/project/patient_perspectives_supportive_care_referral/ class=summary-link>
+<div class=article-style>
+A qualitative research study exploring how patients experience the process of being referred to supportive care services, and how they feel about the idea of AI being involved in that process.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Mood-Disorders">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/depression_functional_recovery/>Predicting Functional Recovery in Depression</a>
+</div>
+<a href=/project/depression_functional_recovery/ class=summary-link>
+<div class=article-style>
+Using clinical and patient-reported data to predict how well someone with depression will recover their day-to-day functioning, to support better treatment planning.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Mood-Disorders">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/sexual_function_mood_disorders/>Sexual Function and Mood Disorders</a>
+</div>
+<a href=/project/sexual_function_mood_disorders/ class=summary-link>
+<div class=article-style>
+Examining the relationship between mood disorder treatment and sexual function, an often-overlooked aspect of patient wellbeing.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/social_isolation_survival/>Social Isolation, Psychological Distress, and Survival</a>
+</div>
+<a href=/project/social_isolation_survival/ class=summary-link>
+<div class=article-style>
+Examining how social isolation and psychological distress relate to outcomes for cancer patients, to better understand the human factors that influence survival.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Supportive-Cancer-Care">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/cns_survival_prediction/>Survival Prediction for Brain Cancer Patients</a>
+</div>
+<a href=/project/cns_survival_prediction/ class=summary-link>
+<div class=article-style>
+Developing tools to better predict outcomes for patients with central nervous system cancers, with the goal of improving prognostic conversations and palliative care planning.
+</div>
+</a>
+<div class="stream-meta article-metadata">
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+<div class="col-12 isotope-item js-id-Mood-Disorders">
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/project/wearable_sensing_mood_disorders/>Wearable Sensing in Mood Disorders</a>
+</div>
+<a href=/project/wearable_sensing_mood_disorders/ class=summary-link>
+<div class=article-style>
+Exploring the use of wearable technology to better understand and support people living with mood disorders.
 </div>
 </a>
 <div class="stream-meta article-metadata">
@@ -868,7 +1077,7 @@ Understanding Patient and Clinician Perspectives on AI
 </div>
 </div>
 <div class=col-md-12>
-<h2 class=mb-4>Patient Partners</h2>
+<h2 class=mb-4>Patient and Family Partners</h2>
 </div>
 <div class="col-12 col-sm-auto people-person">
 <a href=/authors/sally-barton/><img class="avatar avatar-circle" src=/authors/sally-barton/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg alt=Avatar></a>
@@ -1179,249 +1388,6 @@ DOI
 <div class=ml-3>
 </div>
 </div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/bipolar_diagnosis_treatment_delays/>Factors influencing delays in the diagnosis and treatment of bipolar disorder in adolescents and young adults: A systematic scoping review</a>
-</div>
-<a href=/publication/bipolar_diagnosis_treatment_delays/ class=summary-link>
-<div class=article-style>
-<h3 id=introduction>Introduction</h3>
-<p>Bipolar Disorder (BD) is a complex psychiatric condition that typically manifests during late adolescence and early …</p>
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=/poster.pdf target=_blank rel=noopener>
-PDF
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1192/j.eurpsy.2024.619 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/quality_life_antidepressant_ml/>Machine Learning Prediction of Quality of Life Improvement During Antidepressant Treatment of Patients With Major Depressive Disorder: A STAR*D and CAN-BIND-1 Report</a>
-</div>
-<a href=/publication/quality_life_antidepressant_ml/ class=summary-link>
-<div class=article-style>
-Quality of life is an important patient-centric outcome. This study used machine learning methods to predict which patients will …
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-<span>
-<a href=/authors/tejas-phaterpekar/>Tejas Phaterpekar</a></span>, <span>
-<a href=/authors/john-jose-nunez/>John-Jose Nunez</a></span>, <span>
-<a href=/authors/emma-morton/>Emma Morton</a></span>, <span>
-<a href=/authors/yang-s.-liu/>Yang S. Liu</a></span>, <span>
-<a href=/authors/bo-cao/>Bo Cao</a></span>, <span>
-<a href=/authors/benicio-n.-frey/>Benicio N. Frey</a></span>, <span>
-<a href=/authors/roumen-v.-milev/>Roumen V. Milev</a></span>, <span>
-<a href=/authors/daniel-j.-muller/>Daniel J. Müller</a></span>, <span>
-<a href=/authors/susan-rotzinger/>Susan Rotzinger</a></span>, <span>
-<a href=/authors/claudio-n.-soares/>Claudio N. Soares</a></span>, <span>
-<a href=/authors/valerie-h.-taylor/>Valerie H. Taylor</a></span>, <span>
-<a href=/authors/rudolf-uher/>Rudolf Uher</a></span>, <span>
-<a href=/authors/sidney-h.-kennedy/>Sidney H. Kennedy</a></span>, <span>
-<a href=/authors/raymond-w.-lam/>Raymond W. Lam</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/quality_life_antidepressant_ml/cite.bib>
-Cite
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.4088/JCP.23m14864 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/escitalopram_response_trajectories/>Response Trajectories during Escitalopram Treatment of Patients with Major Depressive Disorder</a>
-</div>
-<a href=/publication/escitalopram_response_trajectories/ class=summary-link>
-<div class=article-style>
-Depression is heterogeneous with variable response to treatment. This study used unsupervised machine learning to cluster patients …
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-<span>
-<a href=/authors/john-jose-nunez/>John-Jose Nunez</a></span>, <span>
-<a href=/authors/yang-s.-liu/>Yang S. Liu</a></span>, <span>
-<a href=/authors/bo-cao/>Bo Cao</a></span>, <span>
-<a href=/authors/benicio-n.-frey/>Benicio N. Frey</a></span>, <span>
-<a href=/authors/keith-ho/>Keith Ho</a></span>, <span>
-<a href=/authors/roumen-milev/>Roumen Milev</a></span>, <span>
-<a href=/authors/daniel-j.-muller/>Daniel J. Müller</a></span>, <span>
-<a href=/authors/susan-rotzinger/>Susan Rotzinger</a></span>, <span>
-<a href=/authors/claudio-n.-soares/>Claudio N. Soares</a></span>, <span>
-<a href=/authors/valerie-h.-taylor/>Valerie H. Taylor</a></span>, <span>
-<a href=/authors/rudolf-uher/>Rudolf Uher</a></span>, <span>
-<a href=/authors/sidney-h.-kennedy/>Sidney H. Kennedy</a></span>, <span>
-<a href=/authors/raymond-w.-lam/>Raymond W. Lam</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/escitalopram_response_trajectories/cite.bib>
-Cite
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1016/j.psychres.2023.115361 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/cancer_survival_nlp/>Predicting the Survival of Patients With Cancer From Their Initial Oncology Consultation Document Using Natural Language Processing</a>
-</div>
-<a href=/publication/cancer_survival_nlp/ class=summary-link>
-<div class=article-style>
-Predicting short- and long-term survival of patients with cancer may improve their care. This study investigates whether natural …
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-<span>
-<a href=/authors/john-jose-nunez/>John-Jose Nunez</a></span>, <span>
-<a href=/authors/bonnie-leung/>Bonnie Leung</a></span>, <span>
-<a href=/authors/cheryl-ho/>Cheryl Ho</a></span>, <span>
-<a href=/authors/alan-t.-bates/>Alan T. Bates</a></span>, <span>
-<a href=/authors/raymond-t.-ng/>Raymond T. Ng</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/cancer_survival_nlp/cite.bib>
-Cite
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1001/jamanetworkopen.2023.0813 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/nunez_neural_language_models_thesis/>Using Neural Language Models to Predict the Psychosocial Needs of Cancer Patients</a>
-</div>
-<a href=/publication/nunez_neural_language_models_thesis/ class=summary-link>
-<div class=article-style>
-Cancer is associated not only with mortality, but also with impacts on physical, mental, and social health. When unmet, psychosocial …
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-<span>
-<a href=/authors/john-jose-andres-nunez/>John-Jose Andres Nunez</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0412909 target=_blank rel=noopener>
-PDF
-</a>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/nunez_neural_language_models_thesis/cite.bib>
-Cite
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.14288/1.0412909 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<div class="section-subheading article-title mb-0 mt-0">
-<a href=/publication/antidepressant_ml_replication/>Replication of Machine Learning Methods to Predict Treatment Outcome with Antidepressant Medications in Patients with Major Depressive Disorder from STAR*D and CAN-BIND-1</a>
-</div>
-<a href=/publication/antidepressant_ml_replication/ class=summary-link>
-<div class=article-style>
-Antidepressants are first-line treatments for major depressive disorder, but 40-60% of patients will not respond to treatment. This …
-</div>
-</a>
-<div class="stream-meta article-metadata">
-<div>
-<span>
-<a href=/authors/john-jose-nunez/>John-Jose Nunez</a></span>, <span>
-<a href=/authors/teyden-t.-nguyen/>Teyden T. Nguyen</a></span>, <span>
-<a href=/authors/yihan-zhou/>Yihan Zhou</a></span>, <span>
-<a href=/authors/bo-cao/>Bo Cao</a></span>, <span>
-<a href=/authors/raymond-t.-ng/>Raymond T. Ng</a></span>, <span>
-<a href=/authors/jun-chen/>Jun Chen</a></span>, <span>
-<a href=/authors/benicio-n.-frey/>Benicio N. Frey</a></span>, <span>
-<a href=/authors/roumen-milev/>Roumen Milev</a></span>, <span>
-<a href=/authors/daniel-j.-muller/>Daniel J. Müller</a></span>, <span>
-<a href=/authors/susan-rotzinger/>Susan Rotzinger</a></span>, <span>
-<a href=/authors/claudio-n.-soares/>Claudio N. Soares</a></span>, <span>
-<a href=/authors/rudolf-uher/>Rudolf Uher</a></span>, <span>
-<a href=/authors/sidney-h.-kennedy/>Sidney H. Kennedy</a></span>, <span>
-<a href=/authors/raymond-w.-lam/>Raymond W. Lam</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253023" target=_blank rel=noopener>
-PDF
-</a>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/antidepressant_ml_replication/cite.bib>
-Cite
-</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1371/journal.pone.0253023 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id=blogs class="home-section wg-portfolio">
-<div class=home-section-bg>
-</div>
-<div class=container>
-<div class=row>
-<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-<h1 class=mb-0>Blogs</h1>
-</div>
-<div class="col-12 col-lg-8">
-<span class="d-none default-project-filter">*</span>
-<div class=project-toolbar>
-<div class=project-filters>
-<div class=btn-toolbar>
-<div class="btn-group flex-wrap">
-<a href=# data-filter=* class="btn btn-primary btn-lg active">All</a>
-<a href=# data-filter=.js-id-Natural-language-processing class="btn btn-primary btn-lg">Natural language processing</a>
-<a href=# data-filter=.js-id-Psychiatry class="btn btn-primary btn-lg">Psychiatry</a>
-<a href=# data-filter=.js-id-Others class="btn btn-primary btn-lg">Others</a>
-</div>
-</div>
-</div>
-</div>
-<div class="isotope projects-container row js-layout-row">
-</div>
 </div>
 </div>
 </div>
@@ -1503,7 +1469,38 @@ Dec 19, 2025
 </div>
 </div>
 </section>
-<section id=contact class="home-section wg-contact">
+<section id=join_us class="home-section wg-blank">
+<div class=home-section-bg>
+</div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>Join the Lab</h1>
+</div>
+<div class="col-12 col-lg-8">
+<p>It is always an honour that people are interested in joining our work. Because of the volume of emails I receive, I ask that you read this page first and only reach out about specific opportunities below.</p>
+<p><strong>Employment positions</strong> (paid research assistants, staff roles, postdoctoral fellowships) are posted on the UBC and BC Cancer job boards, and shared on my LinkedIn. Please apply through the posted channel, and contact via email only if you have questions.</p>
+<p><strong>Student and trainee opportunities.</strong> For equity reasons, I do not take on volunteer learners. I accept trainees only through structured opportunities.</p>
+<p><em>Apply through posted channels:</em></p>
+<ul>
+<li>Paid research assistant and co-op positions (undergraduate or graduate): UBC and BC Cancer job boards.</li>
+<li>Postdoctoral fellowships: posted as above, or through external funding competitions.</li>
+<li>Clinical research fellowships: typically require securing an award such as the Institute of Mental Health Marshall Fellowship or the Clinician Investigator Program. If you would like to jointly apply for such an award, please contact me (see below).</li>
+</ul>
+<p><em>Contact me directly:</em></p>
+<ul>
+<li>Undergraduate directed studies or honours theses.</li>
+<li>Graduate MSc or PhD thesis supervision (only once accepted to UBC).</li>
+<li>Medical student FLEX projects.</li>
+<li>Resident physician research projects and research-track supervision.</li>
+<li>Joint fellowship applications (see clinical research fellowships above).</li>
+</ul>
+<p><strong>How to reach me.</strong> If your interest falls in the &ldquo;contact me directly&rdquo; list, please email johnjose.nunez[at]ubc.ca with the specific opportunity in the subject line (e.g. &ldquo;FLEX project&rdquo;, &ldquo;directed studies&rdquo;, &ldquo;Marshall Fellowship co-application&rdquo;). I am not able to respond to general enquiries or to questions about applying to UBC for graduate school.</p>
+</div>
+</div>
+</div>
+</section>
+<section id=contact class="home-section wg-blank">
 <div class=home-section-bg>
 </div>
 <div class=container>
@@ -1512,16 +1509,39 @@ Dec 19, 2025
 <h1 class=mb-0>Contact</h1>
 </div>
 <div class="col-12 col-lg-8">
-<ul class=fa-ul>
-<li>
-<i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
-<span id=person-email><a href=mailto:johnjose.nunez[at]ubc.ca>johnjose.nunez[at]ubc.ca</a></span>
-</li>
-<li>
-<i class="fa-li fas fa-map-marker fa-2x" aria-hidden=true></i>
-<span id=person-address>2215 Wesbrook Mall, Vancouver, BC V6T 2A1</span>
-</li>
-</ul>
+<p><strong>Prospective trainees and employment:</strong> please see <a href=#join_us>Join the Lab</a>.</p>
+<p><strong>Media:</strong> UBC Media Relations at <a href=mailto:media.relations@ubc.ca>media.relations@ubc.ca</a>. You are welcome to cc me at johnjose.nunez[at]ubc.ca.</p>
+<p><strong>Speaking invitations:</strong> I enjoy speaking at academic, clinical, and public venues and welcome invitations. Please reach me at johnjose.nunez[at]ubc.ca.</p>
+<p><strong>Research collaborations:</strong> I am always happy to discuss potential collaborations with academic and clinical partners. Please reach me at johnjose.nunez[at]ubc.ca.</p>
+<p><strong>Philanthropic inquiries:</strong> please see <a href=#support_us>Support the Lab</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id=support_us class="home-section wg-blank">
+<div class=home-section-bg>
+</div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>Support the Lab</h1>
+</div>
+<div class="col-12 col-lg-8">
+<p>We&rsquo;ve been fortunate to work with philanthropic supporters who contribute more than funding. Their questions, experiences, and perspectives have shaped how we approach our research, from the problems we choose to the ways we involve patients and families. Gifts are made through registered Canadian charities and are eligible for tax receipts. If you&rsquo;d like to learn about supporting the lab, or simply want to talk about the work, reach John-Jose at johnjose.nunez[at]ubc.ca or johnjose.nunez[at]bccancer.bc.ca.</p>
+<p><strong>Our supporters:</strong></p>
+<div style=display:flex;flex-wrap:wrap;align-items:center;gap:1.5rem;margin-top:1rem>
+<img src=/uploads/funder_logos/bc_cancer_foundation.webp alt="BC Cancer Foundation" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/canadian_cancer_society.png alt="Canadian Cancer Society" style=height:60px;object-fit:contain;background:#fff;padding:4px;border-radius:4px>
+<img src=/uploads/funder_logos/laurel_foundation.webp alt="Laurel Foundation" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/porte_hungerford.jpg alt="Porte Hungerford" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/nserc.png alt=NSERC style=height:60px;object-fit:contain;background:#fff;padding:4px;border-radius:4px>
+<img src=/uploads/funder_logos/aws.jpg alt="Amazon Web Services" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/cloud_innovation_centre_aws.jpg alt="AWS Cloud Innovation Centre" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/ubc_ai_in_health.png alt="UBC AI in Health" style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/canmat.png alt=CANMAT style=height:60px;object-fit:contain>
+<img src=/uploads/funder_logos/imh.png alt="Institute of Mental Health" style=height:60px;object-fit:contain>
+</div>
+<div style=margin-top:1rem>We are grateful to our patient and family partners, whose lived experience guides and enriches every aspect of our work.</div>
 </div>
 </div>
 </div>

@@ -1,11 +1,10 @@
 ---
-title: Depression Guideline chatbot
+title: Depression Treatment Guideline Chatbot
+summary: An AI assistant that helps clinicians and patients navigate evidence-based treatment guidelines for depression, incorporating state-of-the-art AI techniques.
 date: 2025-10-01
 tags:
-- Retrieval-Augmented Generation
-- Agentic Workflow
+- Featured
 - Mood Disorders
-- Clinical Decision Support
 
 # Optional external URL for project (replaces project detail page).
 

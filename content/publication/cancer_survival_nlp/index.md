@@ -20,7 +20,7 @@ publication_short: "JAMA Netw Open"
 
 abstract: "Predicting short- and long-term survival of patients with cancer may improve their care. This study investigates whether natural language processing can predict survival of patients with general cancer from a patient's initial oncologist consultation document. Using data from 47,625 patients at BC Cancer, machine learning models achieved balanced accuracy of 0.856 (AUC 0.928) for 6-month survival prediction, suggesting the approach may predict survival using readily available data without focusing on a single cancer type."
 
-featured: true
+featured: false
 
 tags:
   - Natural Language Processing

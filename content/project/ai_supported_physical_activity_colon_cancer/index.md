@@ -5,12 +5,7 @@ summary: "Adapting an chatbot to support exercise professionals in providing per
 date: 2026-03-01
 lastmod: 
 tags:
-- AI-in-health
-- Digital health
-- Oncology
-- GenerativeAI
-- BehaviorChange
-- ImplementationScience
+- Supportive Cancer Care
 
 url_code: ""
 url_pdf: ""

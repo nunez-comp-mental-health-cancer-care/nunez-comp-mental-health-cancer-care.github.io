@@ -29,7 +29,7 @@ publication_short: "J Clin Psychiatry"
 
 abstract: "Quality of life is an important patient-centric outcome. This study used machine learning methods to predict which patients will experience quality of life improvement during antidepressant treatment for major depressive disorder. Using data from STAR*D and CAN-BIND-1 trials, the research found that quality of life improvement can be predicted using early depression symptoms and baseline quality of life impairment."
 
-featured: true
+featured: false
 
 tags:
   - Machine Learning

@@ -5,10 +5,7 @@ date: 2026-03-01
 lastmod: 
 
 tags:
-- Psychiatry
-- ADHD
-- Pharmacology
-- Pharmacoepidemiology
+- Mood Disorders
 
 url_code: ""
 url_pdf: ""

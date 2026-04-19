@@ -1,11 +1,9 @@
 ---
-title: Understanding Patient and Clinician Perspectives on AI
-summary: Understanding Patient and Clinician Perspectives on AI
+title: How Patients and Clinicians Want to Use AI in Cancer Care
+summary: Examining what is known about how cancer patients and clinicians perceive, want, and respond to artificial intelligence in their care, to ensure the tools we build reflect what people actually need.
+date: 2025-10-01
 tags:
-  - Artificial Intelligence
-  - Cancer Care
-  - Patient Perspectives
-  - Explainability
+  - Supportive Cancer Care
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
