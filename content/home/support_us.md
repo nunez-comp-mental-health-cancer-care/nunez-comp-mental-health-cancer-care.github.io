@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-We've been fortunate to work with philanthropic supporters who contribute more than funding. Their questions, experiences, and perspectives have shaped how we approach our research, from the problems we choose to the ways we involve patients and families. Gifts are made through registered Canadian charities and are eligible for tax receipts. If you'd like to learn about supporting the lab, or simply want to talk about the work, reach John-Jose at johnjose.nunez[at]ubc.ca or johnjose.nunez[at]bccancer.bc.ca.
+We've been fortunate to receive support from philanthropic donors whose generosity makes our work possible. Many have also shared their expertise, questions, experiences, and perspectives, which have enriched how we approach our research, from the problems we choose to the ways we involve patients and families. Gifts are made through registered Canadian charities and are eligible for tax receipts. If you'd like to learn about supporting the lab, or simply want to talk about the work, please get in touch with John-Jose at johnjose.nunez[at]ubc.ca or johnjose.nunez[at]bccancer.bc.ca.
 
 **Our supporters:**
 
