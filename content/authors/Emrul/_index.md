@@ -23,18 +23,18 @@ bio: PhD in Computer Science
 
 # List each interest with a dash
 interests:
-- Recommendation Systems
+- RAG and Agentic System Evaluation
+- Reliability and Safety of AI systems
 - Natural Language Processing (NLP)
+- Recommendation Systems
 - Responsible AI
-- Explainable AI (XAI)
-- Deep Learning
-- Information Retrieval
+
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Toronto Metropolitan University
-    year:
+    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mhemrul.hasan@ubc.ca'
-- icon: github
-  icon_pack: fab
-  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,5 +57,9 @@ user_groups:
 - Lab Leadership
 ---
 
-I have a PhD in Computer Science, specializing in Recommendation Systems, NLP, and Responsible AI. My research focuses on aspect-aware, multi-criteria recommendation systems, where I leverage NLP and deep learning techniques to improve both performance and explainability. I have published several papers in top-tier, peer-reviewed conferences and journals, including ACM Computing Surveys (ranked #1 out of 143 CS journals, with an impact factor of 23.8).
+I am a Postdoctoral Research Fellow at the University of British Columbia and BC Cancer, developing agentic AI systems for healthcare — including conversational assistants for cancer patients and clinicians. My work centres on design, evaluation, safety and reliability of large-scale agentic architectures and RAG systems in high-stakes clinical settings.
+
+As Agentic AI Technical Specialist at the Vector Institute (2+ years), I have advised 10+ startups on production agentic AI — multi-hop RAG pipelines, tool-augmented agents, and rigorous evaluation frameworks for reliability and failure-mode analysis. At Amazon, I pioneered LLM-as-Judge and LLM-as-Jury pipelines for RAG evaluation, cutting manual review effort by four weeks.
+
+I publish in ACM Computing Surveys (IF 23.8), IEEE, and ACM RecSys.
 
