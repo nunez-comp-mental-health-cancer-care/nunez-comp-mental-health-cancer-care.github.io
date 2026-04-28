@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mhemrul.hasan@ubc.ca'
+- icon: globe
+  icon_pack: fas
+  link: https://emrulhasan-nlp.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,4 +65,3 @@ I am a Postdoctoral Research Fellow at the University of British Columbia and BC
 As Agentic AI Technical Specialist at the Vector Institute (2+ years), I have advised 10+ startups on production agentic AI — multi-hop RAG pipelines, tool-augmented agents, and rigorous evaluation frameworks for reliability and failure-mode analysis. At Amazon, I pioneered LLM-as-Judge and LLM-as-Jury pipelines for RAG evaluation, cutting manual review effort by four weeks.
 
 I publish in ACM Computing Surveys (IF 23.8), IEEE, and ACM RecSys.
-
