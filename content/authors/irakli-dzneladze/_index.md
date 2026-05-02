@@ -3,7 +3,7 @@ title: "Irakli Dzneladze"
 authors:
 - "irakli-dzneladze"
 superuser: false
-weight: 4
+weight: 6
 role: Medical Oncology Resident (Research Associate)
 organizations:
 - name: ""

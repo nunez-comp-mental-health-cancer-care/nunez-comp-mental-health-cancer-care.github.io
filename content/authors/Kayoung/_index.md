@@ -8,7 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
-weight: 3
+weight: 5
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Psychiatry Resident (Research Associate)

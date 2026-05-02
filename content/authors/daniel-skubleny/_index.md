@@ -1,10 +1,10 @@
 ---
-title: "Robert Grmek"
+title: "Daniel Skubleny"
 authors:
-- "robert-grmek"
+- "daniel-skubleny"
 superuser: false
-weight: 4
-role: Psychiatry Resident (Residency Research Project)
+weight: 2
+role: Surgical Oncology Fellow (co-supervised with Vasilyeva Lab, UBC)
 organizations:
 - name: ""
   url: ""

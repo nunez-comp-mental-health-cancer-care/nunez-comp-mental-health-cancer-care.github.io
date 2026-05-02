@@ -3,7 +3,7 @@ title: "Tom Soroski"
 authors:
 - "tom-soroski"
 superuser: false
-weight: 1
+weight: 3
 role: Psychiatry Resident (Research Track)
 organizations:
 - name: ""

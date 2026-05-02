@@ -3,7 +3,7 @@ title: "Kal Samarasinghe"
 authors:
 - "kal-samarasinghe"
 superuser: false
-weight: 5
+weight: 7
 role: Psychiatry Resident (Research Associate)
 organizations:
 - name: University of Alberta
