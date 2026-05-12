@@ -15,6 +15,9 @@ It is always an honour that people are interested in joining our work. Because o
 
 **Employment positions** (paid research assistants, staff roles, postdoctoral fellowships) are posted on the UBC and BC Cancer job boards, and shared on my LinkedIn. Please apply through the posted channel, and contact via email only if you have questions.
 
+*Currently open:*
+- [Postdoctoral Research Fellow (MITACS)](https://ubc.wd10.myworkdayjobs.com/ubcfacultyjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Postdoctoral-Research-Fellow_JR24416), a joint position with [SOZO Intuition Systems](https://sozointuition.com/).
+
 **Student and trainee opportunities.** For equity reasons, I do not take on volunteer learners. I accept trainees only through structured opportunities.
 
 *Apply through posted channels:*

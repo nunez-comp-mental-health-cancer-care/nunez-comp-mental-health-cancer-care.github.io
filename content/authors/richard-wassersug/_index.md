@@ -3,7 +3,7 @@ title: "Richard Wassersug"
 authors:
 - "richard-wassersug"
 superuser: false
-weight: 4
+weight: 5
 role: Patient Partner
 organizations:
 - name: ""

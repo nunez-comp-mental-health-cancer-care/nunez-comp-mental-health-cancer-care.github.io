@@ -3,7 +3,7 @@ title: "Chris Rauscher"
 authors:
 - "chris-rauscher"
 superuser: false
-weight: 3
+weight: 4
 role: Patient Partner
 organizations:
 - name: ""
