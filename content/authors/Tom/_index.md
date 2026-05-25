@@ -19,12 +19,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Full-stack developer supporting AI, mental health, and cancer care research software.
 
 # List each interest with a dash
 interests:
-- Computer Science
+- Full-stack research software
 - Artificial intelligence
+- Digital health tools
 
 education:
   courses:
