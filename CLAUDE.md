@@ -208,6 +208,22 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 - **Lab contacts & groups (source of truth for emails and member groupings):** `C:\Users\jjnun\My Drive (jjnunez11@gmail.com)\Work\Contacts and Groups.md` — WSL path: `/mnt/c/Users/jjnun/My Drive (jjnunez11@gmail.com)/Work/Contacts and Groups.md`. Has a `Patient Partners` group and a `Lab Members` section with roles, preferred names, and UBC emails.
 
+## Memory Setup (new machine)
+
+Memories live in `.claude/memory/` (committed to this repo, travel with git). On each machine, create a symlink so the Claude Code harness finds them:
+
+```bash
+# Find the escaped path first:
+ls ~/.claude/projects/ | grep nunez
+
+# Then create the symlink (adjust escaped path as needed):
+mkdir -p ~/.claude/projects/-home-<user>-<path>-nunez-comp-mental-health-cancer-care.github.io
+ln -s /path/to/nunez-comp-mental-health-cancer-care.github.io/.claude/memory \
+      ~/.claude/projects/-home-<user>-<path>-nunez-comp-mental-health-cancer-care.github.io/memory
+```
+
+On **celesblade-vi**: harness path is `-home-j2-src-nunez-comp-mental-health-cancer-care.github.io`, repo at `~/src/nunez-comp-mental-health-cancer-care.github.io`.
+
 ## Notes
 
 - The `admin` author slug refers to Dr. Nunez (the lab director, `superuser: true`)
