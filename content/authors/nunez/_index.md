@@ -12,7 +12,7 @@ role: Assistant Professor
 organizations:
 - name: University of British Columbia, Department of Psychiatry
   url: https://psychiatry.ubc.ca/
-- name: University of British Columbia, Department of Computer Science (Associate Member)
+- name: University of British Columbia, Department of Computer Science
   url: https://www.cs.ubc.ca/
 - name: BC Cancer
   url: https://www.bccancer.bc.ca/
