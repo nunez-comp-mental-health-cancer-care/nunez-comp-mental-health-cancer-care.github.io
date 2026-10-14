@@ -8,6 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 4
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Coordinator  

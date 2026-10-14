@@ -15,6 +15,10 @@ hugo --gc --minify      # Build production output into docs/
 
 After building, commit and push `docs/` to main. GitHub Pages publishes automatically.
 
+**On celesblade-vi:** Hugo v0.88.1 (extended) is installed at `~/.local/bin/hugo` (downloaded directly from the pinned GitHub release, not a distro package) and `go` is installed system-wide via pacman — both are required since Wowchemy uses Hugo Modules with no vendored cache checked in.
+
+**Push auth:** uses `git credential.helper=store`. If `git push` fails with "Invalid username or token", the stored/pasted PAT is the problem, not git config — verify a token directly with `curl -H "Authorization: token <t>" https://api.github.com/user` before trusting it (401 = bad token, 200 = good).
+
 ## Key Directories
 
 | Path | Purpose |
@@ -191,7 +195,7 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 **Preferred-name format** — When a member's preferred name differs from their formal/legal name (often the name in their UBC email), display as `Preferred (Formal) LastName`. Examples: `Tom (Jincheng) Chen`, `Jenny (Yuci) Zhang`, `Soghomon (Saughmon) Boujkian`. Helps people connect the display name to the email address.
 
-**Email icon policy** — Only show email social icons for **professional lab members** (Lab Leadership + full-time staff: currently Emrul, Olivia, Jenny, Jiao, Tom Chen, and Dr. Nunez) using their `@ubc.ca` addresses. Remove the envelope social block entirely for students, residents, medical students, alumni, and patient partners.
+**Email icon policy** — Only show email social icons for **professional lab members** (Lab Leadership + staff: currently Emrul, Olivia, Mayesha, Devon, Jenny, Jiao, Tom Chen, Joy, and Dr. Nunez; Kal and Komalpreet pending a UBC address) using their `@ubc.ca` addresses. Remove the envelope social block entirely for students, residents, medical students, alumni, and patient partners.
 
 **Weight ordering within user groups:**
 - `Team Members (Technical)`: professionals → PhD → MSc → BSc

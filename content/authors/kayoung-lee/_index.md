@@ -3,7 +3,7 @@ title: "Kayoung Lee"
 authors:
 - "kayoung-lee"
 superuser: false
-weight: 4
+weight: 6
 role: PhD Student (co-supervised, Haase Lab, UBC Nursing)
 organizations:
 - name: ""

@@ -3,8 +3,8 @@ title: "John Ferreira"
 authors:
 - "john-ferreira"
 superuser: false
-weight: 5
-role: MSc Student (co-supervised, Asherson Lab, KCL Applied Neuroscience)
+weight: 7
+role: MSc Student (co-supervised, Asherson Lab, King's College London)
 organizations:
 - name: ""
   url: ""

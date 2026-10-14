@@ -3,7 +3,7 @@ title: "Chhavi Nayyar"
 authors:
 - "chhavi-nayyar"
 superuser: false
-weight: 8
+weight: 9
 role: BSc Student (co-supervised, Conati Lab, UBC CS)
 organizations:
 - name: ""

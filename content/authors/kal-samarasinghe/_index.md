@@ -3,8 +3,8 @@ title: "Kal Samarasinghe"
 authors:
 - "kal-samarasinghe"
 superuser: false
-weight: 7
-role: Psychiatry Resident (Research Associate)
+weight: 3
+role: Clinical Research Fellow
 organizations:
 - name: University of Alberta
   url: https://www.ualberta.ca/
@@ -23,5 +23,5 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team Members (Medical)
+- Lab Leadership
 ---

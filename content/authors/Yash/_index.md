@@ -37,9 +37,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ymali@mail.ubc.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/yashm8
@@ -67,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team Members (Technical)
+- Alumni
 
 ---

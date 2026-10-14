@@ -22,5 +22,5 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team Members (Technical)
+- Alumni
 ---
