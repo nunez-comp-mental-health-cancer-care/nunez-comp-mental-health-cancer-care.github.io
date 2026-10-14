@@ -204,13 +204,15 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 ## Gotchas
 
+- **`assets/jsconfig.json`** is rewritten with a machine-local Hugo cache path on every build/serve. `git checkout -- assets/jsconfig.json` before committing.
 - **Avatar format:** if both `avatar.jpg` and `avatar.png` exist in a profile folder, Hugo uses `.jpg`. Delete the unwanted one rather than just adding the other.
 - **Placeholder avatar:** for new members without a photo yet, copy `_vendor/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/archetypes/authors/avatar.jpg` as `avatar.jpg` into the profile folder.
 - **`pics_to_sort/`** holds raw unsorted photos (often with Windows `:Zone.Identifier` files). Copy into the target profile folder as `avatar.jpg` — don't move or commit the originals.
 
 ## External references
 
-- **Lab contacts & groups (source of truth for emails and member groupings):** `C:\Users\jjnun\My Drive (jjnunez11@gmail.com)\Work\Contacts and Groups.md` — WSL path: `/mnt/c/Users/jjnun/My Drive (jjnunez11@gmail.com)/Work/Contacts and Groups.md`. Has a `Patient Partners` group and a `Lab Members` section with roles, preferred names, and UBC emails.
+- **Lab contacts & groups (source of truth for emails and member groupings):** `~/GoogleDrive/Work/Contacts and Groups.md` (Groups section + `## Lab Members`). The weekly lab agenda Google Doc (`1-ozQD0-495eiIAM9K8lGGs-VmeTvIqvxrZ1uBP8Y1_g`, one tab per week) is the best check for who's current; the roster lags it.
+- **Deliberately not on the site (JJ, 2026-10-13):** MDS capstone students (short placements), Kelcey Bland (Kristin's postdoc), unrecognized FLEX students on the roster.
 
 ## Memory Setup (new machine)
 
