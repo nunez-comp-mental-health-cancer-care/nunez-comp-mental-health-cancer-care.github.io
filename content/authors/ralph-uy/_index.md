@@ -44,7 +44,7 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team Members (Medical)
+- Alumni
 ---
 
 Ralph is a medical student in the Vancouver Fraser Medical Program at the University of British Columbia. He graduated with a Bachelor of Science in Integrated Sciences with a focus on Immunology and Physiology. During his undergraduate studies he worked on research projects in transfusion medicine which sparked his interest in clinical research. Since then, he has become involved in a wider range of projects across different clinical fields. Outside of school, Ralph enjoys powerlifting, playing badminton, and trying new restaurants around Vancouver.
