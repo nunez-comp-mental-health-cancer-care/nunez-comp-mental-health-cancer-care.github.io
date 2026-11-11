@@ -212,7 +212,7 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 - **`assets/jsconfig.json`** is rewritten with a machine-local Hugo cache path on every build/serve. `git checkout -- assets/jsconfig.json` before committing.
 - **Avatar format:** if both `avatar.jpg` and `avatar.png` exist in a profile folder, Hugo uses `.jpg`. Delete the unwanted one rather than just adding the other.
-- **Placeholder avatar:** for new members without a photo yet, copy `_vendor/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/archetypes/authors/avatar.jpg` as `avatar.jpg` into the profile folder.
+- **Placeholder avatar (required):** a profile with NO avatar file renders squished on the People page (Maryam, Daniel Kua, 2026-11-11). For new members without a photo yet, copy `_vendor/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/archetypes/authors/avatar.jpg` as `avatar.jpg` into the profile folder.
 - **`pics_to_sort/`** holds raw unsorted photos (often with Windows `:Zone.Identifier` files). Copy into the target profile folder as `avatar.jpg` — don't move or commit the originals.
 
 ## External references
