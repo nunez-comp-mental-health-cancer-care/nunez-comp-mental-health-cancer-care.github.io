@@ -16,9 +16,9 @@ content:
     - Undergrad Students
     - Grad Students
     - Research Software Developer
-    - Visitors
     - Team Members (Technical)
     - Team Members (Medical)
+    - Visitors
     - Patient and Family Partners
     - Alumni
 design:

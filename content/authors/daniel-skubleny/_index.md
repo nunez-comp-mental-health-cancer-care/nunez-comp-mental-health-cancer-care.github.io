@@ -4,7 +4,7 @@ authors:
 - "daniel-skubleny"
 superuser: false
 weight: 2
-role: Surgical Oncology Fellow (co-supervised with Vasilyeva Lab, UBC)
+role: Surgical Oncology Fellow (Vasilyeva Lab, UBC)
 organizations:
 - name: ""
   url: ""
@@ -22,5 +22,5 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Team Members (Medical)
+- Visitors
 ---
