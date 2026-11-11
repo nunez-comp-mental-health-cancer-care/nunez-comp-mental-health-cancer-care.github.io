@@ -14,5 +14,5 @@ social:
 email: ""
 highlight_name: false
 user_groups:
-- Patient and Family Partners
+- Alumni
 ---

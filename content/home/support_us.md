@@ -26,6 +26,7 @@ We've been fortunate to receive support from philanthropic donors whose generosi
   <img src="/uploads/funder_logos/ubc_ai_in_health.png" alt="UBC AI in Health" style="height:60px; object-fit:contain;">
   <img src="/uploads/funder_logos/canmat.png" alt="CANMAT" style="height:60px; object-fit:contain;">
   <img src="/uploads/funder_logos/imh.png" alt="Institute of Mental Health" style="height:60px; object-fit:contain;">
+  <img src="/uploads/funder_logos/mitacs.png" alt="Mitacs" style="height:60px; object-fit:contain; background:white; padding:4px; border-radius:4px;">
 </div>
 
 <div style="margin-top:1rem;">We are grateful to our patient and family partners, whose lived experience guides and enriches every aspect of our work.</div>

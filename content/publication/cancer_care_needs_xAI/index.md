@@ -11,13 +11,13 @@ authors:
   - Conati, C.
 
 date: "2025-01-01T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-032-21514-7_6"
 
 publishDate: "2025-01-01T00:00:00Z"
 
 publication_types: ["1"]
 
-publication: "Proceedings of the eXplainable AI in Healthcare 2025 Workshop (XAI-Healthcare 2025), held at AIME 2025. In press."
+publication: "Explainable Artificial Intelligence and Process Mining Applications for Healthcare (XAI-Healthcare 2025, held at AIME 2025), Communications in Computer and Information Science"
 publication_short: "XAI-Healthcare 2025"
 
 abstract: ""

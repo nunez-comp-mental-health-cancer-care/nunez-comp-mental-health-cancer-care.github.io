@@ -1,50 +1,60 @@
 ---
-title: "A Chatbot for the Management of Bipolar Disorder: Using
-Retrieval-Augmented Generation with an Open-Weight Large
-Language Model to Answer Clinical Questions Based on the
-CANMAT and ISBD 2018 Guidelines"
+title: "A Chatbot for the Management of Bipolar Disorder: Using Retrieval-Augmented Generation With an Open-Weight Large Language Model to Answer Clinical Questions Based on the CANMAT and ISBD 2018 Guidelines for Bipolar Disorder"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
-- Yash Mali, Zejiao Zeng, et al.
+- Yash Mali
+- Zejiao Zeng
+- Kayoung Heo
+- Grace Zhang
+- Antarip Kashyap
+- Jincheng Chen
+- Kamyar Keramatian
+- Gayatri Saraf
+- Marco Solmi
+- Edwin Tam
+- Sagar V. Parikh
+- Ayal Schaffer
+- Serge Beaulieu
+- Raymond Ng
+- Lakshmi N. Yatham
+- John-Jose Nunez
 
-# Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+date: "2026-06-11T00:00:00Z"
+doi: "10.1177/07067437261457232"
 
-date: "2025-12-02T00:00:00Z"
-doi: "https://doi.org/10.64898/2025.11.30.25341311"
+publishDate: "2026-06-11T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2025-12-02T00:00:00Z"
+publication_types: ["2"]
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication: "The Canadian Journal of Psychiatry"
+publication_short: "Can J Psychiatry"
 
-# Publication name and optional abbreviated publication name.
-publication: In *Review*
-publication_short: In *Review*
+abstract: "### Objective
 
-abstract: Clinical practice guidelines support evidence-based care but are often underused due to complexity, time constraints, and navigation challenges. We investigated whether a conversational agent (chatbot) using an open-weight large language model (LLM) with retrieval-augmented generation (RAG) could provide guideline-consistent answers for bipolar disorder management based on the full 2018 CANMAT and ISBD guidelines, comparing against a system using only the base LLM.
+ Clinical practice guidelines support evidence-based care but are often underused due to complexity, time constraints, and navigation challenges. We investigated whether a conversational agent (chatbot) using an open-weight large language model (LLM) with retrieval-augmented generation (RAG) could provide guideline-consistent answers for bipolar disorder management based on the full 2018 Canadian Network for Mood and Anxiety Treatments (CANMAT) and ISBD guidelines, comparing against a system using only the base LLM.
 
-# Summary. An optional shortened abstract.
-summary:
+### Method
 
-tags: []
+ We developed a multi-step RAG-based chatbot that retrieves relevant guideline sections and generates responses using Llama 3.3 70B. Twenty-one clinical vignettes spanning all guideline sections were created. Six expert psychiatrists generated queries and were presented with paired responses without labels from 2 systems: one using the base Llama 3.3 70B model, the other RAG-enhanced. Responses were rated for guideline consistency on a 3-point scale, and were analyzed using mixed-effects ordinal logistic regression.
 
-# Display this page in the Featured widget?
+### Results
+
+ Experts evaluated 126 responses, of which 110 (87.3%) were rated as correct as or more correct than the baseline system. The RAG system produced 80 answers (63.5%) rated fully consistent with the guidelines versus 24 (19.0%) for baseline, and only 10 answers with major deviation (7.9%) versus 48 (38.1%) for baseline. Ordinal regression showed RAG responses were significantly more likely to be more correct (OR = 9.1, 95% CI [5.3-16.3],
+ P
+  < 0.001), which was consistent across all raters. Preference ratings favoured RAG answers in 78.7% of cases. Performance varied by vignette, with some errors in both retrieval and reasoning.
+
+### Conclusion
+
+ The use of RAG with an open-weight model helped produce answers consistent with the CANMAT guidelines across vignettes that required adapting or combining guideline text, suggesting a proof-of-concept of a bipolar guideline chatbot. We identified areas to improve results and evaluation. Future work should explore additional retrieval strategies and LLMs, and test in more naturalistic settings."
+
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+tags:
+  - Bipolar Disorder
+  - Chatbot
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Clinical Guidelines
 
 url_pdf: ''
 url_code: ''
@@ -52,39 +62,12 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1177/07067437261457232'
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-
-# projects:
-# - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

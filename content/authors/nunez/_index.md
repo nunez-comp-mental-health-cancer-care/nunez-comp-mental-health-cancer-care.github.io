@@ -24,6 +24,7 @@ bio: His research has focused on challenges at the intersection of mental health
 interests:
 - Artificial intelligence
 - Natural language processing
+- Structured/tabular machine learning
 - Psychiatry
 - Mental Health
 - Cancer
@@ -35,9 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MD
+  - course: Clinical Research Fellowship (Cancer Psychiatry and Mood Disorders)
+    institution: UBCH Mood Disorders Centre and BC Cancer
+  - course: Psychiatry Residency, Research Track
     institution: University of British Columbia
   - course: MSc in Computer Science
+    institution: University of British Columbia
+  - course: MD
+    institution: University of British Columbia
+  - course: BSc, Double Major in Mathematics and Pharmacology
     institution: University of British Columbia
 
 
@@ -70,10 +77,8 @@ email: ""
 highlight_name: true
 ---
 
-Dr. John-Jose Nunez is an Assistant Professor in the Department of Psychiatry at the University of British Columbia and the Associate Medical Director for Supportive Care at BC Cancer. He is also the first clinician-scientist to be cross-appointed to UBC's Department of Computer Science, as an Associate Member. He is dual trained as a subspecialist psychiatrist in cancer psychiatry and treatment-resistant mood disorders, and as a computational scientist, having completed an MSc in Computer Science. His work focuses on applying artificial intelligence, big data analysis and other computational methods to improve mental health and cancer care, with an emphasis on clinically grounded, patient-centered approaches to challenges such as navigating the cancer system.
+Dr. John-Jose Nunez is an Assistant Professor in the Department of Psychiatry at the University of British Columbia and the Associate Medical Director for Supportive Care at BC Cancer. He is also the first clinician-scientist cross-appointed to UBC's Department of Computer Science, as an Associate Member. His training included a fellowship in cancer psychiatry and treatment-resistant mood disorders, and an MSc in Computer Science during his residency.
 
-Dr. Nunez’s lab develops and evaluates AI approaches including structured machine learning and natural language processing, with a particular focus on real-world clinical data. This includes clinical documents, patient-generated text, and symptom and quality-of-life scales. The lab conducts both predictive modeling (e.g., risk stratification, outcome prediction) and generative work (e.g., patient-facing decision support and navigation tools). The lab has been doing so well before large language models became a household term.
+His lab uses artificial intelligence and data science to improve mental health and cancer care, applying structured machine learning and natural language processing to real-world clinical data such as clinical documents, patient-generated text, and symptom and quality-of-life scales. The work spans prediction (who will need support, how patients will do) and generative tools (patient-facing navigation and decision support). Dr. Nunez began this research in 2017, well before ChatGPT made these methods widely known.
 
-A defining feature of the lab’s work is its end-to-end scope, spanning method development, model interpretation, clinical validation, implementation in healthcare settings, and understanding user perspectives through direct engagement with patients, caregivers, and clinicians to ensure AI-enabled tools are safe, transparent, and genuinely useful in care.
-
-Through close collaboration with BC Cancer, UBC Psychiatry, the Department of Computer Science, and the UBC Data Science Institute, this multidisciplinary lab advances AI that meaningfully supports patients across the mental health and cancer care continuum.
+The lab's work runs end to end: developing methods, validating them clinically, implementing them in care, and engaging patients, caregivers and clinicians throughout so the tools are safe, transparent and useful. They collaborate closely with BC Cancer, the UBC Hospital Mood Disorders Centre, UBC Psychiatry, UBC Computer Science and the UBC Data Science Institute, and are a founding member of the UBC Psychiatry AI Collaboration.

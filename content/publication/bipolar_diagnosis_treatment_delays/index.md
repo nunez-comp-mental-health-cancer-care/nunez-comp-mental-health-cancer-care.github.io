@@ -1,33 +1,48 @@
 ---
-title: "Factors influencing delays in the diagnosis and treatment of bipolar disorder in adolescents and young adults: A systematic scoping review"
+title: "Factors influencing delays in the diagnosis and treatment of bipolar disorder in adolescents and young adults: systematic scoping review"
 
 authors:
-  - Levit, A.
-  - Nunez, J-J.
-  - Morton, E.
-  - Keramatian, K.
+- Alexander Levit
+- Frederick Lam
+- John-Jose Nunez
+- Emma Morton
+- Kamyar Keramatian
 
-date: "2024-01-01T00:00:00Z"
-doi: "10.1192/j.eurpsy.2024.619"
+date: "2026-05-01T00:00:00Z"
+doi: "10.1192/bjo.2026.11049"
 
-publishDate: "2024-01-01T00:00:00Z"
+publishDate: "2026-05-01T00:00:00Z"
 
 publication_types: ["2"]
 
-publication: "European Psychiatry"
-publication_short: "Eur Psychiatry"
+publication: "BJPsych Open, 12"
+publication_short: "BJPsych Open"
 
-abstract: "### Introduction 
+abstract: "### Background
 
-Bipolar Disorder (BD) is a complex psychiatric condition that typically manifests during late adolescence and early adulthood. Over the past two decades, international studies have reported that BD often goes unrecognized and untreated for several years, which can lead to negative clinical and functional outcomes. However, the components of delay in the diagnosis and treatment of BD in adolescents and young adults and various factors influencing those components have not been systematically explored. Objectives To determine the known factors that contribute to delays in the treatment of BD in adolescents and young adults and identify current knowledge gaps. 
+ Care for bipolar spectrum disorders is often delayed, and these delays are associated with a poorer prognosis. However, little is known about the specific factors that contribute to these delays. Bipolar disorder onset peaks in adolescents and young adults, where barriers to care may be distinct from younger or older populations.
 
-### Methods 
+### Aims
 
-A conceptual framework based on the Model of Pathways to Treatment by Scott and colleagues was used as a foundation for our search and extraction strategy to ensure all components of delay and potential factors influencing each component are explored. We used the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guideline (PRISMA-ScR) to systematically search the electronic databases of MEDLINE (OVID), EMBASE, PsycINFO and CINAHL for peer-reviewed original research articles published from January 01, 2000 through March 29, 2023. Inclusion was restricted to studies with quantitative or qualitative data on individuals diagnosed with bipolar spectrum disorders with symptomatic onset or study participation between the ages of 13-24. Grey literature and studies not published in English were excluded due to resource limitations. Two independent reviewers screened the references retrieved by the literature search based on our inclusion criteria. The findings of included studies were summarized in a narrative and tabular form according to component of delay. Results Our search yielded 5180 unique citations, of which 44 articles met our inclusion criteria. We present findings on the patient, illness, and healthcare provider/mental health system factors contributing to the delays in illness appraisal, help-seeking, diagnosis, and treatment. 
+ To identify the available evidence on factors contributing to delays in care for adolescents and young adults with bipolar disorder.
 
-### Conclusions 
+### Method
 
-To the best of our knowledge, this is the first systematic scoping review to explore the potential factors that influence delays in the treatment of BD in adolescents and young adults. Findings from this review will inform clinical practice and policy. We also demonstrate the utility of a systematic approach to identifying the components of delay, from symptom recognition through treatment, as a methodology to help identify knowledge gaps to inform future research."
+ We performed a pre-registered systematic search of the literature on delays in the care of 13- to 24-year olds diagnosed with bipolar disorder. Our search yielded
+ n
+ = 5991 unique articles published between 2000 and 2025. Two independent reviewers screened abstracts and full texts for eligibility according to
+ a priori
+ inclusion criteria. Findings from included studies (
+ n
+ = 27) were summarised in a narrative synthesis, organised according to patient, disease and systemic factors within the Model of Pathways to Treatment.
+
+### Results
+
+ Findings were limited to observational levels of evidence. There was a relative paucity of research in the appraisal and help-seeking intervals. Some factors in delays to care were consistently identified across multiple studies. However, there were also contradictions or a lack of replication around identified factors.
+
+### Conclusions
+
+ Research in this area has been declining in the past decade despite contradictory findings and ongoing significant delays in bipolar disorder care. Factors contributing to delays in bipolar disorder care can be effectively organised according to appraisal, help-seeking, diagnostic and pre-treatment intervals. This enables a systematic approach to identifying areas in need of quality improvement and further research."
 
 featured: false
 
@@ -39,13 +54,13 @@ tags:
   - Treatment Delays
   - Scoping Review
 
-url_pdf: 'poster.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1192/bjo.2026.11049'
 url_video: ''
 
 image:

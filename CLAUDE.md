@@ -195,7 +195,13 @@ Edit `config/_default/menus.yaml` to add/remove/reorder nav links.
 
 **Preferred-name format** — When a member's preferred name differs from their formal/legal name (often the name in their UBC email), display as `Preferred (Formal) LastName`. Examples: `Tom (Jincheng) Chen`, `Jenny (Yuci) Zhang`, `Soghomon (Saughmon) Boujkian`. Helps people connect the display name to the email address.
 
-**Email icon policy** — Only show email social icons for **professional lab members** (Lab Leadership + staff: currently Emrul, Olivia, Mayesha, Devon, Jenny, Jiao, Tom Chen, Joy, and Dr. Nunez; Kal and Komalpreet pending a UBC address) using their `@ubc.ca` addresses. Remove the envelope social block entirely for students, residents, medical students, alumni, and patient partners.
+**Email icon policy** — Only show email social icons for **professional lab members** (Lab Leadership + staff: currently Louisa, Emrul, Olivia, Mayesha, Devon, Jenny, Jiao, Tom Chen, Joy, and Dr. Nunez; Kal and Komalpreet pending a UBC address) using their `@ubc.ca` addresses. Remove the envelope social block entirely for students, residents, medical students, alumni, and patient partners.
+
+**Publication inclusion rule (JJ, 2026-11-11):** list lab-led papers (a lab member first or last author) plus co-authored papers on the lab's themes (AI in mental health or cancer care). Skip large-consortium papers outside those themes. Source of truth is JJ's CV (`~/GoogleDrive/Work/CV/_jjn-base-cv/base_CV.tex`); pull metadata/abstracts from Crossref and strip CJP's bilingual French subtitle.
+
+**Scheduled roster changes:** Olivia Cook moves to Alumni after December 2026.
+
+**News posts without event photos:** use a 1600x900 white collage of the venue/funder logos or journal covers as `featured.jpg` (2026-11 posts are examples). Space post dates apart; Hugo will not build future-dated posts.
 
 **Weight ordering within user groups:**
 - `Team Members (Technical)`: professionals → PhD → MSc → BSc
