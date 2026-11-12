@@ -4,7 +4,7 @@ authors:
 - "ryan-shen"
 superuser: false
 weight: 12
-role: Co-op Undergraduate Student (CS)
+role: Co-op Undergraduate Student (Neuroscience)
 organizations:
 - name: ""
   url: ""
