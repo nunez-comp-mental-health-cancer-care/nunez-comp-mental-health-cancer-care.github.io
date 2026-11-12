@@ -4,7 +4,7 @@ authors:
 - "tejas-singh"
 superuser: false
 weight: 10
-role: BSc Student (Work Learn Research Assistant)
+role: BSc Student (Work Learn AI Research Assistant)
 organizations:
 - name: ""
   url: ""

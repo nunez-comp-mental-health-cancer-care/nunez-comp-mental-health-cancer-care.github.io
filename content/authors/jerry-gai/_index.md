@@ -4,7 +4,7 @@ authors:
 - "jerry-gai"
 superuser: false
 weight: 11
-role: BSc Student (Work Learn Research Assistant)
+role: BSc Student (Work Learn AI Research Assistant)
 organizations:
 - name: ""
   url: ""
