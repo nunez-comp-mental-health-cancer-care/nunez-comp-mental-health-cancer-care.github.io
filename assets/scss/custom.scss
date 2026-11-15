@@ -127,3 +127,21 @@ body.dark .site-footer{box-shadow:0 0 0 100vmax var(--nl-deep)}
 }
 #navbar-main .navbar-brand .nl-mark{width:34px!important;height:34px!important;max-height:none!important;flex:none}
 @media (max-width:991.98px){#navbar-main .navbar-brand-mobile-wrapper .navbar-brand .nl-mark{width:34px!important;height:34px!important}}
+
+/* ===== Less teal: teal = actions only; names/titles = text colour; links = lavender ===== */
+:root{--nl-link:#5B34A6}
+body.dark{--nl-link:#B08BEA}
+a,body.dark a:not(.btn){color:var(--nl-link)}
+a:not(.btn):hover,a:not(.btn):focus,body.dark a:not(.btn):hover{color:var(--nl-link);text-decoration:underline}
+/* names and titles read as normal text */
+.people-person h2 a,.portrait-title h2 a,.article-title a,.section-subheading a,h1 a,h2 a,h3.article-title a,.article-title{color:var(--nl-text)!important}
+.people-person h2 a:hover,.article-title a:hover{color:var(--nl-link)!important}
+.stream-item .article-style,.summary-link,.summary-link .article-style,.stream-item .article-metadata{color:var(--nl-muted)!important}
+/* social / contact icons are quiet until hovered */
+.network-icon a,.network-icon-links a,.network-icon li a,#profile .network-icon a{color:var(--nl-muted)!important}
+.network-icon a:hover,.network-icon-links a:hover,#profile .network-icon a:hover{color:var(--nl-link)!important}
+/* outline chips (Cite, DOI, PDF...) in lavender; filter pills stay neutral until selected */
+.btn-outline-primary,.btn-page-header,.btn-links{color:var(--nl-link)!important;border-color:var(--nl-line)!important;background:transparent!important}
+.btn-outline-primary:hover{background:transparent!important;border-color:var(--nl-link)!important;color:var(--nl-link)!important}
+.project-filters .btn,.isotope-filters .btn,.pub-filters .btn{color:var(--nl-muted)!important}
+.article-tags a,.badge{color:var(--nl-muted)}
