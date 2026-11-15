@@ -182,3 +182,21 @@ body:not(.dark) .home-section.even{background:#EEF6F6!important}
 .article-metadata > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider),.article-metadata > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider) a,.stream-meta > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider),.stream-meta > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider) a{color:var(--nl-hover)!important}
 .article-metadata .article-date,.article-metadata .article-reading-time{color:var(--nl-muted)!important}
 .article-metadata > div > span a:hover{text-decoration:underline}
+
+/* ===== Round 6: more lavender for people-related details (teal unchanged) ===== */
+:root{--nl-lav-text:#6B4FA8}
+body.dark{--nl-lav-text:#C4B0F0}
+/* roles and titles under names */
+.people-person .portrait-title h3,#profile .portrait-title h3:first-of-type{color:var(--nl-lav-text)}
+/* contact / social icons */
+.network-icon a,.network-icon-links a,.network-icon li a,#profile .network-icon a{color:var(--nl-lav-text)!important}
+.network-icon a:hover,.network-icon-links a:hover,#profile .network-icon a:hover{color:var(--nl-accent-text)!important}
+/* thin lavender ring on every member photo */
+.people-person .avatar{box-shadow:0 0 0 2px var(--nl-bg),0 0 0 4px var(--nl-lav)}
+.home-section.even .people-person .avatar{box-shadow:0 0 0 2px var(--nl-bg2),0 0 0 4px var(--nl-lav)}
+/* bio details: bullets and education icons in lavender, headings stay teal */
+.ul-interests li::marker,.ul-edu li .fa-li,ul.ul-interests li::before{color:var(--nl-lav)}
+/* small touches */
+details>summary{color:var(--nl-lav-text)}
+::selection{background:var(--nl-lav);color:#fff}
+blockquote{border-left:3px solid var(--nl-lav)}
