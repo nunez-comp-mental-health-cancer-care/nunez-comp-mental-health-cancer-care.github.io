@@ -157,3 +157,23 @@ a:not(.btn):hover,a:not(.btn):focus,body.dark a:not(.btn):hover{color:var(--nl-h
 .home-section .section-heading h1::after{content:"";display:block;width:40px;height:3px;border-radius:2px;background:var(--nl-lav);margin-top:.6rem}
 /* tags and chips pick up lavender */
 .article-tags a,.badge{color:var(--nl-hover);border-color:var(--nl-lav)}
+
+/* ===== Round 4: a little more colour, tied to the logo (teal to lavender) ===== */
+:root{--nl-grad:linear-gradient(90deg,#00A79D,#9B6DD7)}
+/* header and footer edge stripe */
+#navbar-main{border-bottom:0!important}
+#navbar-main::after{content:"";position:absolute;left:0;right:0;bottom:0;height:3px;background:var(--nl-grad)}
+.site-footer{position:relative}
+.site-footer::before{content:"";position:absolute;left:-100vmax;right:-100vmax;top:0;height:3px;background:var(--nl-grad)}
+/* section heading bar becomes the teal-to-lavender gradient, a little longer */
+.home-section .section-heading h1::after{width:56px;height:4px;background:var(--nl-grad)}
+/* people group headings (Lab Leadership, Team Members...) get the same short bar */
+#people h2.mb-4::after{content:"";display:block;width:40px;height:3px;border-radius:2px;background:var(--nl-grad);margin:.5rem auto 0}
+/* Interests / Education sub-headings in teal, list icons too */
+.home-section h3,.section-subheading:not(.article-title){color:var(--nl-accent-text)}
+.portrait-title h3{color:var(--nl-muted)}
+.ul-edu li .fa-li,.ul-interests li::marker{color:var(--nl-accent-text)}
+/* bio photo ring */
+#profile .avatar{box-shadow:0 0 0 4px var(--nl-bg),0 0 0 7px var(--nl-accent)}
+/* light mode: even sections get a faint teal wash */
+body:not(.dark) .home-section.even{background:#EEF6F6!important}
