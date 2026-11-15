@@ -145,3 +145,15 @@ a:not(.btn):hover,a:not(.btn):focus,body.dark a:not(.btn):hover{color:var(--nl-l
 .btn-outline-primary:hover{background:transparent!important;border-color:var(--nl-link)!important;color:var(--nl-link)!important}
 .project-filters .btn,.isotope-filters .btn,.pub-filters .btn{color:var(--nl-muted)!important}
 .article-tags a,.badge{color:var(--nl-muted)}
+
+/* ===== Round 3: links back to teal; lavender kept as the accent ===== */
+:root{--nl-link:#00786F;--nl-hover:#5B34A6;--nl-lav:#9B6DD7}
+body.dark{--nl-link:#4FD6CB;--nl-hover:#B08BEA}
+a:not(.btn):hover,a:not(.btn):focus,body.dark a:not(.btn):hover{color:var(--nl-hover)}
+.people-person h2 a:hover,.article-title a:hover{color:var(--nl-hover)!important}
+.network-icon a:hover,.network-icon-links a:hover,#profile .network-icon a:hover{color:var(--nl-hover)!important}
+.btn-outline-primary:hover{border-color:var(--nl-lav)!important;color:var(--nl-hover)!important}
+/* small lavender bar under each home section heading */
+.home-section .section-heading h1::after{content:"";display:block;width:40px;height:3px;border-radius:2px;background:var(--nl-lav);margin-top:.6rem}
+/* tags and chips pick up lavender */
+.article-tags a,.badge{color:var(--nl-hover);border-color:var(--nl-lav)}
