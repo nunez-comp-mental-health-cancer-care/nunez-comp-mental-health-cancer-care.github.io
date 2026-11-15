@@ -177,3 +177,8 @@ a:not(.btn):hover,a:not(.btn):focus,body.dark a:not(.btn):hover{color:var(--nl-h
 #profile .avatar{box-shadow:0 0 0 4px var(--nl-bg),0 0 0 7px var(--nl-accent)}
 /* light mode: even sections get a faint teal wash */
 body:not(.dark) .home-section.even{background:#EEF6F6!important}
+
+/* ===== Round 5: people-related text (author lists on papers and posts) in lavender ===== */
+.article-metadata > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider),.article-metadata > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider) a,.stream-meta > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider),.stream-meta > div > span:not(.article-date):not(.article-reading-time):not(.middot-divider) a{color:var(--nl-hover)!important}
+.article-metadata .article-date,.article-metadata .article-reading-time{color:var(--nl-muted)!important}
+.article-metadata > div > span a:hover{text-decoration:underline}
