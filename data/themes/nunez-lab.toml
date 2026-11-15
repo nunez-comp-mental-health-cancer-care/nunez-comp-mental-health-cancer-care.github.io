@@ -1,0 +1,30 @@
+# Nunez Lab theme: light = "Signal x Paper", dark = "Signal". See jjn-sites/brand/nunez-lab.
+name = "Nunez Lab"
+light = true
+primary = "#00A79D"
+
+# Menu (navy band in both modes)
+menu_primary = "#002145"
+menu_text = "#EAF2FA"
+menu_text_active = "#4FD6CB"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "#FFFFFF"
+home_section_even = "#F4F7FA"
+
+# Page
+background = "#FFFFFF"
+link = "#00786F"
+link_hover = "#00A79D"
+
+[dark]
+  link = "#4FD6CB"
+  link_hover = "#7FE6DC"
+  menu_primary = "#00152B"
+  menu_text = "#EAF2FA"
+  menu_text_active = "#4FD6CB"
+  menu_title = "#FFFFFF"
+  background = "#00152B"
+  home_section_odd = "#00152B"
+  home_section_even = "#002145"

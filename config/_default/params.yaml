@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: nunez-lab
 day_night: true
-font: ''
+font: nunez-lab
 font_size: L
 
 # SEO

@@ -1,0 +1,7 @@
+name = "Nunez Lab"
+# Geist is self-hosted (static/fonts, @font-face in assets/scss/custom.scss), so no Google font URL.
+google_fonts = ""
+heading_font = "Geist"
+body_font = "Geist"
+nav_font = "Geist"
+mono_font = "Geist Mono"
