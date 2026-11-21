@@ -13,6 +13,10 @@ design:
 
 We've been fortunate to receive support from philanthropic donors whose generosity makes our work possible. Many have also shared their expertise, questions, experiences, and perspectives, which have enriched how we approach our research, from the problems we choose to the ways we involve patients and families. Gifts are made through registered Canadian charities and are eligible for tax receipts. If you'd like to learn about supporting the lab, or simply want to talk about the work, please get in touch with John-Jose at johnjose.nunez[at]ubc.ca or johnjose.nunez[at]bccancer.bc.ca.
 
+You can also give online through UBC. You'll receive a tax receipt automatically, and your full gift goes to the lab's research.
+
+<a href="https://donate.give.ubc.ca/page/68038/donate/1?transaction.dirgift=%20General%20donations%20to%20support%20Dr.%20John-Jose%20Nunez%20G4657" target="_blank" rel="noopener" class="btn btn-primary btn-lg" style="margin:0.5rem 0 1.5rem;">Donate through UBC</a>
+
 **Our supporters:**
 
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.5rem; margin-top:1rem;">
